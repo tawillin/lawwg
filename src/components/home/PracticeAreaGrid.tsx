@@ -6,6 +6,8 @@ import {
   Shield,
   Scroll,
   Heart,
+  HandHeart,
+  Home,
   Building2,
   Scale,
   ArrowRight,
@@ -18,6 +20,8 @@ const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   Shield,
   Scroll,
   Heart,
+  HandHeart,
+  Home,
   Building2,
   Scale,
 };

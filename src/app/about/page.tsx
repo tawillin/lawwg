@@ -109,9 +109,9 @@ export default function AboutPage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               {[
-                { label: "Legal Counsel & Advocacy", sub: "Estate planning, probate, guardianship, elder law, and real estate matters.", url: "http://lawwg.com" },
-                { label: "Texas Title & Escrow Services", sub: "Reliable title and closing services for real estate transactions throughout Texas.", url: "http://wgtitle.com" },
-                { label: "Strategy & Stewardship", sub: "Fully independent fiduciary, financial planning and wealth management firm.", url: "http://wgplan.com" },
+                { label: "Legal Counsel & Advocacy", sub: "Estate planning, probate, guardianship, elder law, and real estate matters.", url: "https://lawwg.com" },
+                { label: "Texas Title & Escrow Services", sub: "Reliable title and closing services for real estate transactions throughout Texas.", url: "https://wgtitle.com" },
+                { label: "Strategy & Stewardship", sub: "Fully independent fiduciary, financial planning and wealth management firm.", url: "https://wgplan.com" },
               ].map((co, i) => (
                 <ScrollReveal key={co.label} delay={i * 0.1}>
                   <a href={co.url} target="_blank" rel="noopener noreferrer"
