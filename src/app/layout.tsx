@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   description:
     "Experienced attorneys helping families with trusts, probate, elder law, business formation, and litigation defense. Serving clients with integrity and clarity.",
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://lawwg.com"),
+  icons: {
+    icon: "/images/favicon.svg",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",

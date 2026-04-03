@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" fill="none">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4B86A"/>
+      <stop offset="100%" stop-color="#C9A84C"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="78" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="90" fill="url(#gold)" letter-spacing="-2">WG</text>
+  <text x="175" y="78" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="90" fill="#FFFFFF" letter-spacing="6">LAW</text>
+</svg>
