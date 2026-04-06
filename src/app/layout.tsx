@@ -1,19 +1,31 @@
 import type { Metadata } from "next";
-import { Inter, Playfair_Display } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
-const inter = Inter({
+const inter = localFont({
+  src: [
+    {
+      path: "./fonts/Inter.woff2",
+      style: "normal",
+    },
+  ],
   variable: "--font-inter",
-  subsets: ["latin"],
   display: "swap",
+  fallback: ["system-ui", "sans-serif"],
 });
 
-const playfair = Playfair_Display({
+const playfair = localFont({
+  src: [
+    {
+      path: "./fonts/PlayfairDisplay.woff2",
+      style: "normal",
+    },
+  ],
   variable: "--font-playfair",
-  subsets: ["latin"],
   display: "swap",
+  fallback: ["Georgia", "serif"],
 });
 
 export const metadata: Metadata = {
