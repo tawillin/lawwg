@@ -41,21 +41,26 @@ export const books = [
   {
     title: "Free Long Term Care",
     url: "https://www.amazon.com/Free-Long-Term-Care-Hush-Hush/dp/B087SDMNKY",
+    isbn: "9798640709889",
   },
   {
     title: "Do I Need a Will or a Trust?",
     url: "https://www.amazon.com/Do-I-Need-Will-Trust/dp/1070630837",
+    isbn: "9781070630830",
   },
   {
     title: "Probate Workbook",
     url: "https://www.amazon.com/Probate-Workbook-Taylor-Phillip-Willingham/dp/1727276876",
+    isbn: "9781727276879",
   },
   {
     title: "Helping Your Parent With Long Term Care",
     url: "https://www.amazon.com/Helping-Your-Parent-Long-Term/dp/1727492749",
+    isbn: "9781727492743",
   },
   {
     title: "Why Should I Care? I'll Be Dead",
     url: "https://www.amazon.com/Why-Should-Care-Ill-Dead/dp/1548432520",
+    isbn: "9781548432522",
   },
 ];
