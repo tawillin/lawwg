@@ -1,11 +1,17 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Link from "next/link";
 import { ArrowRight, FileText } from "lucide-react";
-import { blogArticles } from "@/data/blogArticles";
+import { getArticlesSorted } from "@/data/blogArticles";
 import SectionHeader from "@/components/ui/SectionHeader";
 import { staggerContainer, slideUp } from "@/lib/animations";
 import Button from "@/components/ui/Button";
+
+/** Only the fields needed for homepage cards — keeps full content out of client bundle */
+const latestArticles = getArticlesSorted()
+  .slice(0, 3)
+  .map(({ slug, title, excerpt, category }) => ({ slug, title, excerpt, category }));
 
 export default function LawJournal() {
   return (
@@ -26,32 +32,34 @@ export default function LawJournal() {
           viewport={{ once: true, margin: "-60px" }}
           className="grid grid-cols-1 md:grid-cols-3 gap-8"
         >
-          {blogArticles.map((article) => (
+          {latestArticles.map((article) => (
             <motion.article
               key={article.slug}
               variants={slideUp}
               className="group flex flex-col bg-cream border border-slate-100 rounded-sm overflow-hidden hover:border-gold-400 hover:shadow-md transition-all duration-200 hover:-translate-y-1"
             >
-              {/* Category banner */}
-              <div className="bg-navy-900 px-6 py-3 flex items-center gap-2">
-                <FileText className="w-4 h-4 text-gold-400" />
-                <span className="text-gold-400 text-xs font-semibold tracking-wider uppercase">
-                  {article.category}
-                </span>
-              </div>
+              <Link href={`/blog/${article.slug}`} className="flex flex-col flex-1">
+                {/* Category banner */}
+                <div className="bg-navy-900 px-6 py-3 flex items-center gap-2">
+                  <FileText className="w-4 h-4 text-gold-400" />
+                  <span className="text-gold-400 text-xs font-semibold tracking-wider uppercase">
+                    {article.category}
+                  </span>
+                </div>
 
-              <div className="p-6 flex flex-col flex-1">
-                <h3 className="font-serif text-lg text-navy-900 leading-snug mb-3 flex-1">
-                  {article.title}
-                </h3>
-                <p className="text-slate-500 text-sm leading-relaxed mb-4">
-                  {article.excerpt}
-                </p>
-                <span className="inline-flex items-center gap-1 text-xs font-semibold text-gold-500 group-hover:text-gold-600 transition-colors">
-                  Read Article{" "}
-                  <ArrowRight className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" />
-                </span>
-              </div>
+                <div className="p-6 flex flex-col flex-1">
+                  <h3 className="font-serif text-lg text-navy-900 leading-snug mb-3 flex-1">
+                    {article.title}
+                  </h3>
+                  <p className="text-slate-500 text-sm leading-relaxed mb-4">
+                    {article.excerpt}
+                  </p>
+                  <span className="inline-flex items-center gap-1 text-xs font-semibold text-gold-500 group-hover:text-gold-600 transition-colors">
+                    Read Article{" "}
+                    <ArrowRight className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" />
+                  </span>
+                </div>
+              </Link>
             </motion.article>
           ))}
         </motion.div>

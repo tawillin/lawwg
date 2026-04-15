@@ -51,7 +51,7 @@ const nextConfig: NextConfig = {
       // ── Probate & estate sub-pages ──
       { source: "/challenging-a-will", destination: "/practice-areas/probate", permanent: true },
       { source: "/executor-help", destination: "/practice-areas/probate", permanent: true },
-      { source: "/posterity-planning", destination: "/practice-areas/estate-planning", permanent: true },
+      { source: "/posterity-planning", destination: "/blog/introducing-posterity-planning", permanent: true },
       { source: "/summer-estate-plan-checkup", destination: "/practice-areas/estate-planning", permanent: true },
 
       // ── About pages (Wix auto-generated slugs) ──
@@ -74,8 +74,22 @@ const nextConfig: NextConfig = {
       { source: "/about-1-2-4-2-5-1", destination: "/about", permanent: true },
       { source: "/about-1-2-4-2-5-1-1", destination: "/about", permanent: true },
 
+      // ── Blog posts (Wix used /post/ prefix) ──
+      { source: "/post/can-a-surviving-spouse-lose-their-homestead-rights-by-renting-out-the-property-in-texas", destination: "/blog/surviving-spouse-homestead-rights-renting-texas", permanent: true },
+      { source: "/post/indiana-s-requirements-to-create-a-valid-will", destination: "/blog/indiana-requirements-valid-will", permanent: true },
+      { source: "/post/a-guide-on-revoking-a-transfer-on-death-deeds-in-texas", destination: "/blog/revoking-transfer-on-death-deeds-texas", permanent: true },
+      { source: "/post/introducing-posterity-planning-a-new-approach-to-estate-planning", destination: "/blog/introducing-posterity-planning", permanent: true },
+      { source: "/post/navigating-probate-without-an-attorney-what-you-need-to-know", destination: "/blog/navigating-probate-without-attorney-texas", permanent: true },
+      { source: "/post/legal-tip-of-the-day-don-t-sue-for-5-000-build-something-instead", destination: "/blog/legal-tip-dont-sue-for-5000", permanent: true },
+      { source: "/post/is-your-estate-plan-vacation-ready-here-s-your-3-step-summer-refresh", destination: "/blog/estate-plan-vacation-ready-summer-refresh", permanent: true },
+      { source: "/post/why-trusts-are-essential-in-estate-planning", destination: "/blog/why-trusts-are-essential-estate-planning", permanent: true },
+      { source: "/post/why-every-texan-needs-a-medical-power-of-attorney", destination: "/blog/why-every-texan-needs-medical-power-of-attorney", permanent: true },
+      { source: "/post/hiring-a-trust-and-will-attorney-key-timing", destination: "/blog/hiring-trust-will-attorney-key-timing", permanent: true },
+      // Wix law journal category pages → blog index
+      { source: "/law-journal/categories/:path*", destination: "/blog", permanent: true },
+
       // ── Other Wix pages ──
-      { source: "/5-star-reviews", destination: "/5-star-reviews", permanent: true },
+      // /5-star-reviews — same path on new site, no redirect needed
       { source: "/law-journal", destination: "/blog", permanent: true },
       { source: "/client-feedback", destination: "/5-star-reviews", permanent: true },
       { source: "/leave-a-review", destination: "/5-star-reviews", permanent: true },
