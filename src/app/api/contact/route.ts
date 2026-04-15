@@ -15,7 +15,7 @@ export async function POST(request: Request) {
     const data = schema.parse(body);
 
     const apiKey = process.env.RESEND_API_KEY;
-    const toEmail = process.env.CONTACT_EMAIL ?? "info@lawwg.com";
+    const toEmail = process.env.CONTACT_EMAIL ?? "a@lawwg.com";
 
     if (!apiKey) {
       // In development without Resend configured, log and succeed

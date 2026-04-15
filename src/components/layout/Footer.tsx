@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { Scale, Phone, Clock } from "lucide-react";
+import Image from "next/image";
+import { Phone, Clock } from "lucide-react";
 import { siteConfig } from "@/data/siteConfig";
 import { practiceAreas } from "@/data/practiceAreas";
 
@@ -41,8 +42,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <Scale className="w-6 h-6 text-gold-500" />
-              <span className="font-serif text-lg font-semibold">{siteConfig.name}</span>
+              <Image
+                src="/logo-light.png"
+                alt={siteConfig.shortName}
+                width={140}
+                height={40}
+                className="h-8 w-auto"
+              />
             </div>
             <p className="text-white/60 text-sm leading-relaxed mb-6">{siteConfig.description}</p>
             <div className="flex gap-3">

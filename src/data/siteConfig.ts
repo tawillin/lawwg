@@ -7,7 +7,7 @@ export const siteConfig = {
     "Trusted estate planning, elder law, and probate attorneys serving McKinney, Southlake, and the Dallas–Fort Worth metroplex.",
   phone: "214-250-4407",
   phoneHref: "tel:214-250-4407",
-  email: "info@lawwg.com",
+  email: "a@lawwg.com",
   reviewCount: "350+",
   reviewLink: "https://www.lawwg.com/5-star-reviews",
   offices: [
