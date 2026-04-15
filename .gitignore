@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# google analytics service account credentials
+/google analytics/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
