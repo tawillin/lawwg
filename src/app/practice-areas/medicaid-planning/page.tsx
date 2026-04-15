@@ -3,7 +3,7 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import ElderLawDiagram from "@/components/practice-areas/diagrams/ElderLawDiagram";
 
 export const metadata: Metadata = {
-  title: "Medicaid Planning",
+  title: "Texas Medicaid Planning Attorneys",
   description: "Protect your assets and qualify for Medicaid long-term care benefits. WG Law helps McKinney and Southlake families navigate Medicaid planning legally and ethically.",
 };
 

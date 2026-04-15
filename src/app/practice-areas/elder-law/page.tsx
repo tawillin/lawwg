@@ -3,7 +3,7 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import ElderLawDiagram from "@/components/practice-areas/diagrams/ElderLawDiagram";
 
 export const metadata: Metadata = {
-  title: "Elder Law",
+  title: "Elder Law Attorneys | North Texas",
   description: "Planning for long-term care, Medicaid, powers of attorney, and guardianship. Our elder law attorneys help seniors and families prepare for every stage of aging.",
 };
 

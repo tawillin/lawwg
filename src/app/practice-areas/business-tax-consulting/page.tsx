@@ -3,7 +3,7 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import BusinessTaxDiagram from "@/components/practice-areas/diagrams/BusinessTaxDiagram";
 
 export const metadata: Metadata = {
-  title: "Business Tax Consulting",
+  title: "Business Tax Consulting in Texas",
   description: "Strategic business tax consulting for Texas entrepreneurs, business owners, and professionals — minimizing tax liability through smart entity structure and planning.",
 };
 

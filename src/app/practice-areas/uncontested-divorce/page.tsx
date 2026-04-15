@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import DivorceDiagram from "@/components/practice-areas/diagrams/DivorceDiagram";
 
 export const metadata: Metadata = {
-  title: "Uncontested Divorce",
-  description: "Straightforward, affordable uncontested divorce services for Texas couples who have reached an agreement — handled with efficiency and discretion.",
+  title: "Uncontested Divorce Attorneys in Texas",
+  description: "Straightforward, affordable uncontested divorce for Texas couples who have reached an agreement. WG Law handles your case with efficiency, care, and discretion.",
 };
 
 export default function UncontestedDivorcePage() {

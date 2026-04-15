@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import LitigationDiagram from "@/components/practice-areas/diagrams/LitigationDiagram";
 
 export const metadata: Metadata = {
-  title: "Litigation Defense",
-  description: "When you're sued, you need a strategic defense. Our litigation attorneys guide you through every stage of the legal process with focus and clarity.",
+  title: "Litigation Defense Attorneys | Texas",
+  description: "When you're sued, you need a strategic defense. Our North Texas litigation attorneys guide you through every stage of the legal process with focus and clarity.",
 };
 
 export default function LitigationPage() {

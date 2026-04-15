@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import RealEstateDiagram from "@/components/practice-areas/diagrams/RealEstateDiagram";
 
 export const metadata: Metadata = {
-  title: "Real Estate Law",
-  description: "Residential and commercial real estate transactions, title review, and closing services for McKinney and Southlake buyers, sellers, and investors.",
+  title: "Real Estate Attorneys in North Texas",
+  description: "Residential and commercial real estate transactions, title review, and closing services for North Texas buyers, sellers, and investors. Call WG Law today.",
 };
 
 export default function RealEstateLawPage() {

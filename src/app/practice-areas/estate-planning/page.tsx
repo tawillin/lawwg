@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import TrustsDiagram from "@/components/practice-areas/diagrams/TrustsDiagram";
 
 export const metadata: Metadata = {
-  title: "Estate Planning",
-  description: "Wills, trusts, powers of attorney, and healthcare directives from experienced McKinney and Southlake estate planning attorneys.",
+  title: "Estate Planning Attorneys in Texas",
+  description: "Wills, trusts, powers of attorney, and advance directives from experienced North Texas estate planning attorneys. Serving Frisco, McKinney, and Plano. Call today.",
 };
 
 export default function EstatePlanningPage() {

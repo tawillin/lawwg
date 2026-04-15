@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import TrustsDiagram from "@/components/practice-areas/diagrams/TrustsDiagram";
 
 export const metadata: Metadata = {
-  title: "Trusts & Estate Planning",
-  description: "Understand how revocable and irrevocable trusts protect your assets and ensure your wishes are carried out. Consultations available.",
+  title: "Trusts & Estate Planning | North Texas",
+  description: "Protect your assets with revocable or irrevocable trusts from experienced North Texas trust attorneys. Avoid probate and ensure your wishes are honored. Call today.",
 };
 
 export default function TrustsPage() {

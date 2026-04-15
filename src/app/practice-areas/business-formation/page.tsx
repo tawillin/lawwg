@@ -3,8 +3,8 @@ import PracticePageLayout from "@/components/practice-areas/PracticePageLayout";
 import BusinessFormationDiagram from "@/components/practice-areas/diagrams/BusinessFormationDiagram";
 
 export const metadata: Metadata = {
-  title: "Business Formation",
-  description: "Choose the right business entity — LLC, S-Corp, or C-Corp — with guidance from our business formation attorneys. Protect yourself and build on a solid legal foundation.",
+  title: "LLC & Business Formation in Texas",
+  description: "Choose the right business entity — LLC, S-Corp, or C-Corp — with guidance from our North Texas business formation attorneys. Protect yourself and build on a solid foundation.",
 };
 
 export default function BusinessFormationPage() {
