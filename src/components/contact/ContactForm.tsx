@@ -7,6 +7,7 @@ import { z } from "zod";
 import { motion } from "framer-motion";
 import { fadeUp } from "@/lib/animations";
 import Button from "@/components/ui/Button";
+import { trackLead } from "@/lib/analytics";
 import { CheckCircle2, Loader2 } from "lucide-react";
 
 const schema = z.object({
@@ -47,6 +48,7 @@ export default function ContactForm() {
         body: JSON.stringify(data),
       });
       if (!res.ok) throw new Error("Submission failed");
+      trackLead(data.practiceArea);
       setSubmitted(true);
     } catch {
       setServerError("Something went wrong. Please call us directly or try again.");

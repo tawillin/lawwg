@@ -8,6 +8,7 @@ import Button from "@/components/ui/Button";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import SectionHeader from "@/components/ui/SectionHeader";
 import AttorneyPhoto from "@/components/ui/AttorneyPhoto";
+import AttorneySchema from "@/components/seo/AttorneySchema";
 import { ArrowLeft, Phone, CheckCircle2 } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -40,6 +41,7 @@ export default async function AttorneyPage({ params }: Props) {
 
   return (
     <>
+      <AttorneySchema attorney={attorney} />
       {/* Hero */}
       <section className="pt-8 pb-16 bg-navy-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

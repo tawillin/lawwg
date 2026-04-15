@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import SectionHeader from "@/components/ui/SectionHeader";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import Button from "@/components/ui/Button";
+import JsonLd from "@/components/seo/JsonLd";
 import { ChevronDown } from "lucide-react";
 
 export const metadata: Metadata = {
@@ -110,8 +111,24 @@ const categories = [
 ];
 
 export default function FAQPage() {
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: categories.flatMap((cat) =>
+      cat.questions.map((item) => ({
+        "@type": "Question",
+        name: item.q,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: item.a,
+        },
+      }))
+    ),
+  };
+
   return (
     <>
+      <JsonLd data={faqSchema} />
       {/* Hero */}
       <section className="pt-8 pb-16 bg-navy-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

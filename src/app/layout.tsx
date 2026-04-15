@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import GoogleAnalytics from "@/components/analytics/GoogleAnalytics";
+import OrganizationSchema from "@/components/seo/OrganizationSchema";
 
 const inter = localFont({
   src: [
@@ -56,6 +57,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <GoogleAnalytics />
+        <OrganizationSchema />
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />

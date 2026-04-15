@@ -8,6 +8,7 @@ import {
 } from "@/data/blogArticles";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import Button from "@/components/ui/Button";
+import BlogPostSchema from "@/components/seo/BlogPostSchema";
 import { ArrowLeft, Calendar, Clock, User, ArrowRight } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -185,6 +186,13 @@ export default async function BlogArticlePage({ params }: Props) {
 
   return (
     <>
+      <BlogPostSchema
+        title={article.title}
+        description={article.metaDescription}
+        slug={article.slug}
+        date={article.date}
+        author={article.author}
+      />
       {/* Hero */}
       <section className="pt-8 pb-16 bg-navy-900">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">

@@ -1,5 +1,7 @@
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import Button from "@/components/ui/Button";
+import LegalServiceSchema from "@/components/seo/LegalServiceSchema";
+import { practiceAreas } from "@/data/practiceAreas";
 import { ArrowLeft } from "lucide-react";
 
 type PracticePageLayoutProps = {
@@ -11,6 +13,7 @@ type PracticePageLayoutProps = {
   diagram: React.ReactNode;
   sections: { heading: string; body: string }[];
   relatedSlugs: string[];
+  slug?: string;
 };
 
 const relatedLabels: Record<string, string> = {
@@ -30,9 +33,15 @@ export default function PracticePageLayout({
   diagram,
   sections,
   relatedSlugs,
+  slug,
 }: PracticePageLayoutProps) {
+  const practiceArea = slug
+    ? practiceAreas.find((p) => p.slug === slug)
+    : undefined;
+
   return (
     <>
+      {practiceArea && <LegalServiceSchema practiceArea={practiceArea} />}
       {/* Page hero */}
       <section className="pt-32 pb-20 bg-navy-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
