@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { fadeUp, staggerContainer } from "@/lib/animations";
 import SectionHeader from "@/components/ui/SectionHeader";
@@ -20,6 +21,15 @@ export default function FounderSpotlight() {
         >
           {/* Text column */}
           <div>
+            <motion.div variants={fadeUp} className="w-32 h-32 rounded-full overflow-hidden relative mb-6 border-2 border-gold-500/40">
+              <Image
+                src="/attorneys/taylor-willingham.png"
+                alt="Taylor Willingham"
+                fill
+                className="object-cover object-[center_20%]"
+                sizes="128px"
+              />
+            </motion.div>
             <SectionHeader
               eyebrow="Meet the Founder"
               title="Attorney Taylor Willingham"

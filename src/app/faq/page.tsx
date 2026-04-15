@@ -158,9 +158,9 @@ export default function FAQPage() {
           <p className="text-gold-400 text-xs font-semibold tracking-[0.2em] uppercase mb-3">Still Have Questions?</p>
           <h2 className="font-serif text-3xl text-white mb-4">We Are Here to Help</h2>
           <p className="text-white/60 mb-8 max-w-xl mx-auto">
-            Every family&rsquo;s situation is unique. Schedule a free consultation with one of our attorneys to get answers tailored to your circumstances.
+            Every family&rsquo;s situation is unique. Schedule a consultation with one of our attorneys to get answers tailored to your circumstances.
           </p>
-          <Button href="/contact" variant="primary" size="lg">Book a Free Consultation</Button>
+          <Button href="/contact" variant="primary" size="lg">Book a Consultation</Button>
         </ScrollReveal>
       </section>
     </>

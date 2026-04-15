@@ -4,7 +4,7 @@ import TrustsDiagram from "@/components/practice-areas/diagrams/TrustsDiagram";
 
 export const metadata: Metadata = {
   title: "Trusts & Estate Planning",
-  description: "Understand how revocable and irrevocable trusts protect your assets and ensure your wishes are carried out. Free consultation available.",
+  description: "Understand how revocable and irrevocable trusts protect your assets and ensure your wishes are carried out. Consultations available.",
 };
 
 export default function TrustsPage() {

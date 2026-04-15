@@ -80,8 +80,8 @@ const PROBATE_TYPES: ProbateType[] = [
     name: "Muniment of Title",
     shortName: "Muniment",
     complexity: "Low",
-    timeEstimate: "2–6 weeks",
-    timelineWeeks: 4,
+    timeEstimate: "4–12 weeks",
+    timelineWeeks: 8,
     courtInvolvement: "One hearing",
     whenToUse:
       "The simplest probate option when there is a valid will and the estate has no unpaid debts (other than a mortgage on the homestead). Primarily used to transfer real estate title — no executor is appointed.",
@@ -103,8 +103,8 @@ const PROBATE_TYPES: ProbateType[] = [
     name: "Small Estate Affidavit",
     shortName: "Small Estate",
     complexity: "Low",
-    timeEstimate: "1–4 weeks",
-    timelineWeeks: 3,
+    timeEstimate: "4–12 weeks",
+    timelineWeeks: 8,
     courtInvolvement: "None",
     whenToUse:
       "Available when the decedent died without a will and the total estate (excluding homestead and exempt property) is worth $75,000 or less. No court proceeding required — filed directly with the court clerk.",
@@ -128,8 +128,8 @@ const PROBATE_TYPES: ProbateType[] = [
     name: "Affidavit of Heirship",
     shortName: "Affidavit of Heirship",
     complexity: "Low",
-    timeEstimate: "2–4 weeks",
-    timelineWeeks: 3,
+    timeEstimate: "2–8 weeks",
+    timelineWeeks: 5,
     courtInvolvement: "None",
     whenToUse:
       "Used without a will to establish ownership of real property by documenting the family history and heirs through sworn affidavits. No court proceeding — recorded in county deed records. Best when the only significant asset is real estate.",
@@ -152,8 +152,8 @@ const PROBATE_TYPES: ProbateType[] = [
     name: "Determination of Heirship",
     shortName: "Determination",
     complexity: "Moderate",
-    timeEstimate: "3–9 months",
-    timelineWeeks: 26,
+    timeEstimate: "12–24 months",
+    timelineWeeks: 78,
     courtInvolvement: "Required",
     whenToUse:
       "A formal court proceeding to legally establish who the heirs are when someone dies without a will and the estate is too large for a Small Estate Affidavit or includes assets beyond real property. Results in a court decree naming all heirs.",
@@ -303,6 +303,9 @@ function DetailPanel({ typeId, onTypeSelect }: { typeId: string; onTypeSelect: (
             <span className="font-medium text-navy-900">{type.timeEstimate}</span>
             <span>2 years</span>
           </div>
+          <p className="text-xs text-slate-400 italic mt-2">
+            *All typical timelines are county-specific. Please speak to an attorney for a more accurate timeline for your situation.
+          </p>
         </div>
 
         {/* Type switcher strip */}

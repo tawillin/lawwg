@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Phone, Clock } from "lucide-react";
+import { Phone, Clock, Scale } from "lucide-react";
 import { siteConfig } from "@/data/siteConfig";
 import { practiceAreas } from "@/data/practiceAreas";
 

@@ -123,7 +123,7 @@ export default function ReviewsPage() {
       <section className="py-16 bg-gold-500 text-center">
         <ScrollReveal>
           <h2 className="font-serif text-3xl text-navy-900 mb-4">Ready to Experience the Difference?</h2>
-          <Button href="/contact" variant="secondary" size="lg">Book a Free Consultation</Button>
+          <Button href="/contact" variant="secondary" size="lg">Book a Consultation</Button>
         </ScrollReveal>
       </section>
     </>

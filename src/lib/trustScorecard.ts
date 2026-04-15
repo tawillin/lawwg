@@ -185,7 +185,7 @@ export async function generateTrustPDF(answers: Record<number, boolean>, score: 
   doc.setFontSize(9);
   doc.setFont("helvetica", "bold");
   doc.setTextColor(...NAVY);
-  doc.text("Next step: Book a free consultation to discuss your results.", margin, y);
+  doc.text("Next step: Book a consultation to discuss your results.", margin, y);
   y += 6;
 
   // ── Footer ───────────────────────────────────────────────────

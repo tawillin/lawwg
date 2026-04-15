@@ -3,6 +3,7 @@ import Link from "next/link";
 import { attorneys } from "@/data/attorneys";
 import SectionHeader from "@/components/ui/SectionHeader";
 import ScrollReveal from "@/components/ui/ScrollReveal";
+import AttorneyPhoto from "@/components/ui/AttorneyPhoto";
 import Button from "@/components/ui/Button";
 import { CheckCircle2, ArrowRight } from "lucide-react";
 import { reviews } from "@/data/reviews";
@@ -45,12 +46,8 @@ export default function AboutPage() {
             {attorneys.map((attorney, i) => (
               <ScrollReveal key={attorney.slug} delay={i * 0.06}>
                 <div className="bg-white border border-slate-100 rounded-sm shadow-sm overflow-hidden group hover:shadow-md hover:-translate-y-1 transition-all duration-300">
-                  <div className="h-40 bg-navy-800 flex items-center justify-center relative">
-                    <div className="w-20 h-20 rounded-full bg-navy-700 border-2 border-gold-500/30 flex items-center justify-center">
-                      <span className="font-serif text-2xl text-gold-400">
-                        {attorney.name.split(" ").map((n) => n[0]).slice(0, 2).join("")}
-                      </span>
-                    </div>
+                  <div className="h-48 bg-navy-800 flex items-center justify-center relative">
+                    <AttorneyPhoto attorney={attorney} size="w-28 h-28" />
                   </div>
                   <div className="p-6">
                     <p className="text-gold-500 text-xs font-semibold tracking-widest uppercase mb-1">{attorney.title}</p>
@@ -150,7 +147,7 @@ export default function AboutPage() {
       {/* CTA */}
       <section className="py-16 bg-gold-500 text-center">
         <ScrollReveal>
-          <h2 className="font-serif text-3xl text-navy-900 mb-4">Book a Free Consultation</h2>
+          <h2 className="font-serif text-3xl text-navy-900 mb-4">Book a Consultation</h2>
           <Button href="/contact" variant="secondary" size="lg">Contact Our Attorneys Today</Button>
         </ScrollReveal>
       </section>

@@ -26,7 +26,7 @@ export default function ContactCTA() {
           viewport={{ once: true }}
           className="font-serif text-3xl md:text-4xl text-navy-900 leading-tight mb-4"
         >
-          Get a Free Consultation Today
+          Schedule a Consultation Today
         </motion.h2>
         <motion.p
           variants={fadeUp}

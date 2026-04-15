@@ -89,7 +89,7 @@ export default function PracticeAreaGrid() {
                   Ready to get started?
                 </p>
                 <h3 className="font-serif text-2xl text-white mb-4 leading-tight">
-                  Schedule Your Free Consultation
+                  Schedule Your Consultation
                 </h3>
                 <p className="text-white/60 text-sm leading-relaxed">
                   Not sure which area applies to you? We&apos;ll listen to your situation and point you in the right direction — no charge.

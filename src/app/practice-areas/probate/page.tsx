@@ -114,7 +114,7 @@ export default function ProbatePage() {
           <p className="text-navy-900/70 mb-8 max-w-xl mx-auto">
             Our attorneys will assess your situation and guide you to the most efficient path through probate.
           </p>
-          <Button href="/contact" variant="secondary" size="lg">Book a Free Consultation</Button>
+          <Button href="/contact" variant="secondary" size="lg">Book a Consultation</Button>
         </ScrollReveal>
       </section>
     </>

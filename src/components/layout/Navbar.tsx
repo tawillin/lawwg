@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, Phone, Star } from "lucide-react";
+import { Menu, X, Phone, Star, Scale } from "lucide-react";
 import { useScrollProgress } from "@/hooks/useScrollProgress";
 import { siteConfig } from "@/data/siteConfig";
 import { practiceAreas } from "@/data/practiceAreas";

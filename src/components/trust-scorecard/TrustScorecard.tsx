@@ -176,7 +176,7 @@ export default function TrustScorecard() {
           {/* Consultation CTA */}
           <Button href="/contact" variant="outline" size="sm" className="w-full">
             <CalendarCheck className="w-4 h-4 mr-2" />
-            Book a Free Consultation
+            Book a Consultation
           </Button>
 
           {answered > 0 && (

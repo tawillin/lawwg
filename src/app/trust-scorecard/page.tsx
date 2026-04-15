@@ -107,11 +107,11 @@ export default function TrustScorecardPage() {
             Ready to Talk Through Your Results?
           </h2>
           <p className="text-navy-900/70 mb-8 max-w-xl mx-auto">
-            A free consultation takes 30 minutes and gives you a clear picture
+            A consultation takes 30 minutes and gives you a clear picture
             of whether a trust makes sense for your family.
           </p>
           <Button href="/contact" variant="secondary" size="lg">
-            Book a Free Consultation
+            Book a Consultation
           </Button>
         </ScrollReveal>
       </section>

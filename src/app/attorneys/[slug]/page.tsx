@@ -7,6 +7,7 @@ import { siteConfig } from "@/data/siteConfig";
 import Button from "@/components/ui/Button";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import SectionHeader from "@/components/ui/SectionHeader";
+import AttorneyPhoto from "@/components/ui/AttorneyPhoto";
 import { ArrowLeft, Phone, CheckCircle2 } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -51,11 +52,7 @@ export default async function AttorneyPage({ params }: Props) {
           </Link>
           <div className="flex flex-col sm:flex-row gap-8 items-start">
             {/* Avatar */}
-            <div className="w-28 h-28 rounded-full bg-navy-800 border-2 border-gold-500/40 flex items-center justify-center flex-shrink-0">
-              <span className="font-serif text-4xl text-gold-400">
-                {attorney.name.split(" ").map((n) => n[0]).slice(0, 2).join("")}
-              </span>
-            </div>
+            <AttorneyPhoto attorney={attorney} size="w-28 h-28" />
             <div>
               <p className="text-gold-400 text-xs font-semibold tracking-[0.2em] uppercase mb-2">{attorney.title}</p>
               <h1 className="font-serif text-4xl md:text-5xl text-white mb-3">{attorney.name}</h1>
@@ -122,7 +119,7 @@ export default async function AttorneyPage({ params }: Props) {
                 <div className="bg-navy-900 rounded-sm p-6">
                   <p className="text-gold-400 text-xs font-semibold tracking-widest uppercase mb-3">Schedule a Consultation</p>
                   <p className="text-white/70 text-sm leading-relaxed mb-4">
-                    Ready to protect your family&rsquo;s future? Call us or book a free consultation online.
+                    Ready to protect your family&rsquo;s future? Call us or book a consultation online.
                   </p>
                   <a
                     href={siteConfig.phoneHref}
@@ -132,7 +129,7 @@ export default async function AttorneyPage({ params }: Props) {
                     {siteConfig.phone}
                   </a>
                   <Button href="/contact" variant="primary" size="sm" className="w-full text-center">
-                    Book Free Consultation
+                    Book a Consultation
                   </Button>
                 </div>
               </ScrollReveal>
@@ -154,11 +151,7 @@ export default async function AttorneyPage({ params }: Props) {
                     href={`/attorneys/${a.slug}`}
                     className="group bg-cream border border-slate-100 rounded-sm p-5 hover:border-gold-300 hover:shadow-md transition-all duration-300 block"
                   >
-                    <div className="w-12 h-12 rounded-full bg-navy-900 flex items-center justify-center mb-3 group-hover:bg-gold-500 transition-colors">
-                      <span className="font-serif text-gold-400 group-hover:text-navy-900 transition-colors">
-                        {a.name.split(" ").map((n) => n[0]).slice(0, 2).join("")}
-                      </span>
-                    </div>
+                    <AttorneyPhoto attorney={a} size="w-12 h-12" className="mb-3" />
                     <p className="text-gold-500 text-xs font-semibold tracking-wide uppercase mb-1">{a.title}</p>
                     <p className="font-serif text-navy-900 text-base group-hover:text-gold-600 transition-colors">{a.name}</p>
                   </Link>

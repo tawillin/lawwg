@@ -6,7 +6,7 @@ import ScrollReveal from "@/components/ui/ScrollReveal";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Schedule a free consultation with Willingham Law Group. We're here to answer your questions.",
+  description: "Schedule a consultation with Willingham Law Group. We're here to answer your questions.",
 };
 
 export default function ContactPage() {
@@ -20,12 +20,11 @@ export default function ContactPage() {
               Get in Touch
             </p>
             <h1 className="font-serif text-4xl md:text-5xl text-white mb-4">
-              Free Consultation
+              Schedule a Consultation
             </h1>
             <div className="w-12 h-0.5 bg-gold-500 mb-4" />
             <p className="text-white/60 text-base max-w-xl">
               Tell us about your situation and we&apos;ll respond within one business day.
-              The first consultation is always free.
             </p>
           </ScrollReveal>
         </div>
@@ -102,7 +101,7 @@ export default function ContactPage() {
                   <ul className="space-y-2 text-slate-600 text-sm">
                     {[
                       "We'll review your message within 24 hours",
-                      "A free 30-minute consultation by phone or in person",
+                      "A 30-minute consultation by phone or in person",
                       "Plain-language explanation of your options",
                       "No pressure, no commitment required",
                     ].map((item) => (

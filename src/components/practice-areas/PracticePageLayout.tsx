@@ -125,10 +125,10 @@ export default function PracticePageLayout({
               Have questions about your situation?
             </h2>
             <p className="text-white/60 text-base mb-8">
-              Schedule a free consultation and we&apos;ll give you a plain-language assessment of your options.
+              Schedule a consultation and we&apos;ll give you a plain-language assessment of your options.
             </p>
             <Button href="/contact" variant="primary" size="lg">
-              Schedule a Free Consultation
+              Schedule a Consultation
             </Button>
           </ScrollReveal>
         </div>

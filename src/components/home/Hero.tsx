@@ -81,7 +81,7 @@ export default function Hero() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Button href="/contact" variant="primary" size="lg">
-              Book a Free Consultation
+              Book a Consultation
             </Button>
             <a
               href={siteConfig.phoneHref}
