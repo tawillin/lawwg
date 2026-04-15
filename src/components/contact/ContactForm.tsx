@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 import { fadeUp } from "@/lib/animations";
 import Button from "@/components/ui/Button";
 import { trackLead } from "@/lib/analytics";
-import { CheckCircle2, Loader2 } from "lucide-react";
+import { CheckCircle2, Loader2, Star, Users, Shield } from "lucide-react";
 
 const schema = z.object({
   name: z.string().min(2, "Please enter your name"),
@@ -24,8 +24,10 @@ const practiceAreaOptions = [
   "Trusts & Estate Planning",
   "Probate Administration",
   "Elder Law",
-  "Business Formation",
-  "Litigation Defense",
+  "Medicaid Planning",
+  "Real Estate Law",
+  "Business & Tax Consulting",
+  "Uncontested Divorce",
   "Not sure / General inquiry",
 ];
 
@@ -148,6 +150,25 @@ export default function ContactForm() {
       <p className="text-slate-400 text-xs text-center">
         Your information is confidential and protected by attorney-client privilege.
       </p>
+
+      {/* Social proof */}
+      <div className="grid grid-cols-3 gap-3 pt-3 border-t border-slate-100">
+        <div className="flex flex-col items-center text-center">
+          <Star className="w-4 h-4 text-gold-500 mb-1" />
+          <p className="text-xs font-semibold text-navy-900">350+</p>
+          <p className="text-[10px] text-slate-500">5-Star Reviews</p>
+        </div>
+        <div className="flex flex-col items-center text-center">
+          <Users className="w-4 h-4 text-gold-500 mb-1" />
+          <p className="text-xs font-semibold text-navy-900">10,000+</p>
+          <p className="text-[10px] text-slate-500">Clients Served</p>
+        </div>
+        <div className="flex flex-col items-center text-center">
+          <Shield className="w-4 h-4 text-gold-500 mb-1" />
+          <p className="text-xs font-semibold text-navy-900">6,000+</p>
+          <p className="text-[10px] text-slate-500">Trusts Created</p>
+        </div>
+      </div>
     </motion.form>
   );
 }

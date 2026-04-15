@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { attorneys } from "@/data/attorneys";
 import { locations } from "@/data/locations";
+import { leadMagnets } from "@/lib/leadMagnets";
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://lawwg.com";
 
@@ -45,6 +46,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.8,
+    })),
+    { url: `${baseUrl}/resources`, lastModified: new Date(), changeFrequency: "monthly" as const, priority: 0.7 },
+    ...leadMagnets.map((lm) => ({
+      url: `${baseUrl}/resources/${lm.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     })),
   ];
 }
