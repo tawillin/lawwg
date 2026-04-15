@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { attorneys } from "@/data/attorneys";
+import { locations } from "@/data/locations";
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://lawwg.com";
 
@@ -38,6 +39,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.7,
+    })),
+    ...locations.map((l) => ({
+      url: `${baseUrl}/locations/${l.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
     })),
   ];
 }
