@@ -150,8 +150,11 @@ export default function Navbar() {
                 </AnimatePresence>
               </div>
 
-              <Link href="https://www.willprobateattorneys.com/law-journal" target="_blank" className="text-sm text-white/80 hover:text-gold-400 font-medium tracking-wide transition-colors">
+              <Link href="/blog" className="text-sm text-white/80 hover:text-gold-400 font-medium tracking-wide transition-colors">
                 Law Journal
+              </Link>
+              <Link href="/resources" className="text-sm text-white/80 hover:text-gold-400 font-medium tracking-wide transition-colors">
+                Resources
               </Link>
               <Link href="/faq" className="text-sm text-white/80 hover:text-gold-400 font-medium tracking-wide transition-colors">
                 FAQ
@@ -196,7 +199,9 @@ export default function Navbar() {
                     {area.shortTitle}
                   </Link>
                 ))}
-                <Link href="/faq" onClick={() => setMobileOpen(false)} className="text-white/80 hover:text-gold-400 py-2.5 text-sm font-medium border-t border-navy-700 mt-2">FAQ</Link>
+                <Link href="/blog" onClick={() => setMobileOpen(false)} className="text-white/80 hover:text-gold-400 py-2.5 text-sm font-medium border-t border-navy-700 mt-2">Law Journal</Link>
+                <Link href="/resources" onClick={() => setMobileOpen(false)} className="text-white/80 hover:text-gold-400 py-2.5 text-sm font-medium">Resources</Link>
+                <Link href="/faq" onClick={() => setMobileOpen(false)} className="text-white/80 hover:text-gold-400 py-2.5 text-sm font-medium">FAQ</Link>
                 <Link href="/contact" onClick={() => setMobileOpen(false)} className="mt-2 block text-center py-3 bg-gold-500 text-navy-900 text-sm font-semibold rounded-sm">
                   Book a Consultation
                 </Link>
