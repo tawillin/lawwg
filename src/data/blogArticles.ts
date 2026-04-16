@@ -1614,7 +1614,7 @@ A Lady Bird Deed avoids all of these problems because the enhanced powers are bu
 The property passes directly to your beneficiaries at death, completely outside the probate process. This saves time, money, and administrative hassle.
 
 ### 2. No Gift for Medicaid Purposes
-Because you retain the right to sell or revoke the deed, a Lady Bird Deed is **not considered a gift** under Medicaid rules. This means:
+Because you retain the right to sell or revoke the deed, a Lady Bird Deed is **not considered a gift** under <a href="/practice-areas/medicaid-planning">Medicaid planning</a> rules. This means:
 - It does not trigger the five-year look-back penalty
 - The property remains your homestead for exemption purposes
 - You preserve eligibility for Medicaid if needed
@@ -1623,7 +1623,7 @@ Because you retain the right to sell or revoke the deed, a Lady Bird Deed is **n
 When your beneficiaries inherit the property, they receive a **stepped-up tax basis** equal to the property's fair market value at the time of your death. This can eliminate or dramatically reduce capital gains taxes if they decide to sell.
 
 ### 4. Medicaid Estate Recovery Protection
-Because the property passes outside of probate, it is generally not subject to the Texas Medicaid Estate Recovery Program (MERP). This is one of the most effective ways to protect a homestead from post-death Medicaid claims.
+Because the property passes outside of probate, it is generally not subject to the <a href="/practice-areas/medicaid-planning">Texas Medicaid Estate Recovery Program (MERP)</a>. This is one of the most effective ways to protect a homestead from post-death Medicaid claims.
 
 ### 5. Homestead Tax Exemption Preserved
 A Lady Bird Deed does not affect your homestead tax exemption. You continue to enjoy the property tax benefits of homestead status during your lifetime.
@@ -1639,7 +1639,7 @@ A Lady Bird Deed is particularly useful when:
 
 ## When a Lady Bird Deed May NOT Be Enough
 
-A Lady Bird Deed only covers one piece of real property. If you have multiple properties, financial accounts, investment portfolios, or complex family situations, a comprehensive trust-based estate plan may be more appropriate. A Lady Bird Deed can work alongside a trust as part of a broader strategy.
+A Lady Bird Deed only covers one piece of real property. If you have multiple properties, financial accounts, investment portfolios, or complex family situations, a comprehensive <a href="/practice-areas/estate-planning">trust-based estate plan</a> may be more appropriate. A Lady Bird Deed can work alongside a trust as part of a broader strategy.
 
 ## How to Set Up a Lady Bird Deed
 
@@ -1653,7 +1653,7 @@ The deed must be recorded during your lifetime to be effective. It does not need
 
 ## Get Professional Help
 
-While Lady Bird Deeds are powerful, the language must be drafted correctly to achieve the intended results. Errors in the deed can create title problems, unintended tax consequences, or Medicaid eligibility issues. At WG Law, we prepare Lady Bird Deeds as part of our estate planning services for families across McKinney, Southlake, and North Texas.`,
+While Lady Bird Deeds are powerful, the language must be drafted correctly to achieve the intended results. Errors in the deed can create title problems, unintended tax consequences, or Medicaid eligibility issues. At WG Law, we prepare <a href="/practice-areas/real-estate-law">Lady Bird Deeds</a> as part of our <a href="/practice-areas/estate-planning">estate planning services</a> for families across McKinney, Southlake, and North Texas.`,
   },
   {
     slug: "sued-in-texas-what-to-do",
