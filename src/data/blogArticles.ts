@@ -1957,6 +1957,115 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p><em>This article provides general information about Texas elder law and is not legal advice. Laws change and individual circumstances vary. If you believe financial exploitation is occurring, contact Adult Protective Services and a licensed Texas attorney promptly.</em></p>`,
   },
+  {
+    slug: "what-happens-to-debt-when-you-die-texas",
+    title: "What Happens to Your Debt When You Die in Texas?",
+    excerpt:
+      "Your family doesn't automatically inherit your debt in Texas, but creditors may still have a claim against your estate. Here's what Texas law says — and how to protect your loved ones.",
+    category: "Probate",
+    date: "2026-04-16",
+    author: "Willingham Law Group",
+    readTime: "8 min read",
+    metaDescription:
+      "What happens to debt when you die in Texas? Learn how creditors claim against your estate, which assets are protected, and how to shield your family from your debts.",
+    content: `<h2>The Short Answer: Your Family Doesn't Personally Inherit Your Debt</h2>
+<p>One of the most common fears people have about death is whether their loved ones will be stuck paying their bills. In most cases in Texas, the answer is no — your heirs do not personally inherit your unsecured debts. But that doesn't mean creditors disappear. What actually happens is more nuanced, and understanding it matters for both estate planning and probate administration.</p>
+
+<h2>How Debt Works at Death in Texas</h2>
+<p>When you die, your assets and liabilities don't simply vanish. They become part of your "estate." Your estate is responsible for paying your valid debts before any assets are distributed to your heirs or beneficiaries. Think of it this way: your estate owes your creditors before your family gets anything.</p>
+<p>The process of settling debts and distributing what remains to heirs is largely what probate is about. In Texas, this process is governed by the <strong>Texas Estates Code</strong>.</p>
+
+<h3>Secured Debts vs. Unsecured Debts</h3>
+<p>Not all debts work the same way at death. The two main categories are:</p>
+<ul>
+  <li><strong>Secured debts</strong> — debts tied to a specific asset, like a mortgage (tied to your home) or an auto loan (tied to your car). If a secured debt is not paid, the creditor can foreclose or repossess the collateral. A beneficiary who inherits a home with an outstanding mortgage must either continue making payments or sell the property to satisfy the lien.</li>
+  <li><strong>Unsecured debts</strong> — credit cards, medical bills, and personal loans. These are not tied to specific assets. Creditors must file a claim against the estate to get paid. If the estate has insufficient funds, the creditor may receive partial payment or nothing at all.</li>
+</ul>
+
+<h2>Texas Is a Community Property State — and That Changes Everything</h2>
+<p>Texas is one of only nine community property states in the country, and this fact significantly affects how debt is handled at death.</p>
+
+<h3>Community Debt and the Surviving Spouse</h3>
+<p>Debts incurred during a marriage for community purposes are generally <strong>community debts</strong>. If you die, your surviving spouse may remain personally liable for community debts — even if the debt was originally in your name alone. This is one of the most important and frequently misunderstood aspects of Texas debt law at death.</p>
+<p>For example, if you accumulated significant medical bills during your marriage, those bills may be treated as community obligations. Depending on the circumstances, your spouse could be held responsible for paying them even after your death — not because they inherited your debt, but because the debt was jointly theirs to begin with.</p>
+
+<h3>Separate Debt</h3>
+<p>Debts incurred before marriage, or debts incurred during marriage for separate property purposes, are typically the deceased person's separate debts. The surviving spouse is generally not personally liable for these. However, the decedent's separate estate assets can still be used to satisfy these debts through the probate process.</p>
+
+<h2>Which Assets Are Protected from Creditors in Texas?</h2>
+<p>Texas has some of the strongest creditor-protection laws in the country. Several categories of assets are shielded from claims by the decedent's creditors:</p>
+
+<h3>Homestead Property</h3>
+<p>Under the Texas Constitution and the <strong>Texas Property Code</strong>, the homestead is protected for the surviving spouse and minor children. Creditors generally cannot force the sale of the homestead to satisfy unsecured debts during the surviving spouse's lifetime — even if the estate is otherwise insolvent. This protection is one of the most powerful in Texas law.</p>
+
+<h3>Beneficiary-Designated Accounts</h3>
+<p>Assets that pass directly to a named beneficiary — such as life insurance proceeds, IRAs, 401(k) plans, and annuities — bypass probate entirely. Because these assets never become part of the probate estate, they are generally not subject to the deceased person's creditors. This is one of the strongest reasons to keep beneficiary designations current.</p>
+
+<h3>Joint Tenancy With Right of Survivorship</h3>
+<p>Property held in joint tenancy with right of survivorship passes directly to the surviving co-owner and does not pass through the probate estate. As a result, it is generally not available to satisfy the decedent's creditors through probate.</p>
+
+<h3>Revocable Living Trusts</h3>
+<p>Assets held in a properly funded revocable living trust do not go through probate at death. While creditors may still have a claim against trust assets in certain circumstances, the trust structure can provide administrative efficiency and, in some cases, reduce exposure to creditor claims.</p>
+
+<h2>The Probate Process and Creditor Claims</h2>
+<p>When an estate is opened in a Texas probate court — such as a county court at law in Collin, Denton, or Dallas County — creditors are given a formal opportunity to file claims. Here is how the process generally works:</p>
+
+<h3>Notice to Creditors</h3>
+<p>After probate is opened, the executor (also called the personal representative) is required to notify creditors. Under the Texas Estates Code, this can be done by:</p>
+<ul>
+  <li>Sending written notice directly to known creditors</li>
+  <li>Publishing a notice in a local newspaper (which can bar claims from unknown creditors after a waiting period)</li>
+</ul>
+<p>Creditors who receive written notice generally have <strong>four months</strong> from the date of that notice to file a claim against the estate. Creditors who do not receive written notice but are on record as having a claim have four months from the date the notice to creditors is published, or 180 days from the date letters testamentary are granted — whichever is later.</p>
+
+<h3>Priority of Debts Under Texas Law</h3>
+<p>Texas law establishes a specific order in which estate debts are paid. The estate must satisfy higher-priority claims before lower-priority ones. The general order of priority under the Texas Estates Code is:</p>
+<ol>
+  <li>Funeral and last illness expenses (subject to statutory caps)</li>
+  <li>Allowances to the surviving spouse and minor children</li>
+  <li>Expenses of estate administration</li>
+  <li>Secured claims on property</li>
+  <li>Child support arrearages</li>
+  <li>General unsecured creditors</li>
+</ol>
+<p>If the estate runs out of money before all creditors are paid, lower-priority creditors may receive nothing. Heirs receive their inheritance only after all valid debts and expenses have been paid.</p>
+
+<h3>What Happens When Debts Exceed Assets: The Insolvent Estate</h3>
+<p>If an estate's debts exceed its assets, it is considered <strong>insolvent</strong>. In that case, creditors receive a pro-rata share of what is available, distributed according to the priority order above. Your heirs receive nothing from the probate estate — though they may still inherit assets that passed outside of probate, such as life insurance proceeds or beneficiary-designated retirement accounts.</p>
+<p>Critically, your heirs are not personally required to make up the shortfall. The debt effectively dies with the estate — as long as the heirs did not personally co-sign or guarantee the debt.</p>
+
+<h2>When Heirs Could Be Personally Responsible for Debt</h2>
+<p>While heirs do not typically inherit personal liability, there are situations where a surviving family member could face personal responsibility:</p>
+<ul>
+  <li><strong>Co-signers and guarantors</strong>: If a family member co-signed a loan or credit card, they remain personally responsible after the primary borrower's death — regardless of how probate resolves.</li>
+  <li><strong>Community property debts</strong>: As discussed, surviving spouses in Texas may be personally liable for community debts incurred during the marriage.</li>
+  <li><strong>Improper distributions by the executor</strong>: If an executor distributes estate assets to heirs before paying valid creditor claims, those heirs may be required to return the assets to satisfy unpaid debts.</li>
+</ul>
+
+<h2>What Debt Collectors Cannot Do After Someone Dies</h2>
+<p>It is worth knowing that debt collectors face legal limits on how they may pursue debts after a person dies. Under the <strong>Fair Debt Collection Practices Act (FDCPA)</strong> and Texas Finance Code, collectors cannot:</p>
+<ul>
+  <li>Falsely claim that surviving family members are personally liable for a debt they did not co-sign</li>
+  <li>Harass or threaten family members who have no legal responsibility for the debt</li>
+  <li>Misrepresent the amount owed or the family's legal obligations</li>
+</ul>
+<p>If you are contacted by a debt collector after the death of a loved one, proceed carefully. You are not required to pay a debt you did not personally incur. Consult an attorney before making any payments or agreements with collectors.</p>
+
+<h2>Practical Steps to Protect Your Family</h2>
+<p>For families across North Texas — whether in Frisco, Plano, McKinney, Allen, or the broader Dallas-Fort Worth area — understanding how debts work at death helps you plan more effectively. Here are practical steps to consider:</p>
+<ul>
+  <li><strong>Keep beneficiary designations current</strong>: Life insurance, retirement accounts, and other beneficiary-designated assets pass outside of probate and are generally shielded from estate creditors. Review your designations after major life events.</li>
+  <li><strong>Understand your community property picture</strong>: Talk to an estate planning attorney about which of your debts are community debts and how your spouse might be affected if you die first.</li>
+  <li><strong>Consider a living trust</strong>: A properly funded revocable living trust keeps assets out of probate, which can reduce creditor exposure and allow faster distribution to your family.</li>
+  <li><strong>Maintain adequate life insurance</strong>: Life insurance gives your family liquidity to cover debts and expenses without having to liquidate investments or real estate.</li>
+  <li><strong>Keep an organized asset inventory</strong>: Make it easy for your executor to identify what is and is not part of your probate estate, so creditor claims can be handled efficiently.</li>
+</ul>
+
+<h2>Work With an Attorney Who Knows Texas Probate Law</h2>
+<p>Estate debts are one of the most stressful and misunderstood parts of settling a loved one's estate. A creditor calling within weeks of a death, demanding payment and implying that family members owe the money, is a common — and frightening — experience. Knowing the law changes everything.</p>
+<p>At Willingham Law Group, we help executors, surviving spouses, and families across North Texas navigate the probate process, handle creditor claims, and protect the assets that matter most. Whether you are settling an estate now or want to plan ahead, we are here to help.</p>
+<p><em>This article provides general legal information about Texas law and is not legal advice. Every situation is different. If you have questions about a specific estate, debt, or probate matter, please consult a licensed Texas attorney.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
