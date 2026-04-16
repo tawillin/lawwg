@@ -1754,6 +1754,98 @@ A lawsuit is a legal process with rules, deadlines, and procedures. When you fol
 
 If you've been served with a lawsuit in Texas, contact WG Law. We'll review your case, explain your options, and help you build a strong defense.`,
   },
+  {
+    slug: "texas-deed-fraud-home-title-theft",
+    title: "Your House Can Be Stolen Without a Key: The Truth About Texas Deed Fraud",
+    excerpt:
+      "In Texas, a forger can walk into the county clerk's office, file a fake deed on your home, and transfer your title — without your knowledge. Here's how it happens and what the law can — and can't — do about it.",
+    category: "Real Estate",
+    date: "2026-04-15",
+    author: "Willingham Law Group",
+    readTime: "9 min read",
+    metaDescription:
+      "Texas deed fraud is rising fast. Learn exactly how home title theft works, what the 2025 Texas laws changed, and how to protect your property right now.",
+    content: `<p>Sam Cormier spent forty years building something modest but real: a portfolio of eight paid-off properties in Houston, Texas. Not a tech empire, not a hedge fund -- just eight houses, bought one at a time, with decades of work behind each one. By the time he was 84, those properties were worth about $1.1 million. They were his legacy. His retirement. His gift to his children.</p>
+
+<p>Then one morning he received a letter addressed to someone he had never heard of, sent to an address he owned, informing this stranger of a change in ownership. Sam Cormier had never sold that property. He had never signed a deed. He had never agreed to anything. But someone had visited the Harris County Clerk's office, filed forged deeds on all eight of his properties, and then borrowed $1 million against the titles she had just stolen. When she could not repay the loans, the lender moved to auction his houses. The man who had never needed a mortgage -- because he had always paid cash -- was about to lose everything to a person who had never owned any of it.</p>
+
+<p>This was not an anomaly. It was not a glitch. It was Texas property law working precisely as designed -- and revealing a structural gap that fraudsters across the state had been quietly exploiting for years.</p>
+
+<h2>How Texas Deed Fraud Actually Works</h2>
+
+<p>Texas, like most states, maintains a system of public deed recording. When property changes hands, the deed is filed with the county clerk and entered into the public record. That record then carries a legal presumption of validity: if it is recorded, courts treat it as authentic unless proven otherwise.</p>
+
+<p>For most of Texas history, this system worked fine. The people who knew how to draft a deed, obtain a notarization, and file it with the county were, overwhelmingly, the people with legitimate reasons to do so. Deed fraud required a certain sophistication -- access to legal forms, a cooperative notary, and the boldness to present a fabricated document to a government office.</p>
+
+<p>Then the internet made every piece of that equation trivially easy. Deed templates are free online. Notary fraud is disturbingly common -- some notaries simply stamp whatever is put in front of them for a fee. And Texas county clerks, by law and by long-standing practice, have no obligation to verify that the signature on a deed is genuine. Their job is administrative: accept the document, collect the filing fee, record it. Investigation is not in their job description.</p>
+
+<p>The result is a recording system that is, in the words of one Harris County prosecutor, "an open door." File a deed. Record it. Then use the recorded document -- which carries a presumption of validity -- to borrow money against the property, sell it to an unsuspecting buyer, or simply strip the equity. By the time the original owner discovers what happened, the fraudster has often moved on to the next target.</p>
+
+<h2>The Page-Swap Method: Henry v. Henry</h2>
+
+<p>Fraud rarely requires sophistication when trust is available as a substitute. In <em>Henry v. Henry</em>, No. 02-24-00507-CV (Tex. App.--Fort Worth 2025), an elderly woman named Mozelle owned a ranch that had been in her family for generations. Her son Darrell brought her documents to sign. Mozelle signed. She trusted her son.</p>
+
+<p>A forensic document examiner later testified that the pages describing the ranch property were almost certainly not attached to the first page of the document when Mozelle put her pen to paper. She signed a signature page. Darrell then inserted the property description pages afterward. The completed deed -- bearing Mozelle's genuine signature on page one and Darrell's chosen property description on the pages that followed -- was filed with the county clerk and recorded without incident. Darrell subsequently sold 70 acres of the ranch for $257,151.</p>
+
+<p>The estate of Mozelle Henry sued. The trial court found the deed fraudulent. The Fort Worth Court of Appeals affirmed the forgery finding in 2025. Darrell lost the legal fight. But the case also exposed something the victim's family found deeply frustrating: even when fraud is proven, recovering every dollar of damage in Texas is complicated. The appeals court reversed part of the damages award because, under Texas law, being someone's adult son does not automatically create a legal fiduciary relationship -- and without that formal fiduciary duty, certain categories of damages are simply unavailable, no matter how egregious the conduct. The law can find the fraud and still leave the victim holding part of the bill.</p>
+
+<h2>The Legal Twist That Shocks Every Homeowner</h2>
+
+<p>Deep inside Texas property law is a distinction that sounds academic until it happens to you. Texas courts divide fraudulent deeds into two categories: <strong>void</strong> and <strong>voidable</strong> -- and the difference between them can determine whether you get your house back.</p>
+
+<p>A <strong>forged deed</strong> -- one where the owner's signature was fabricated entirely without their participation, as in the Cormier case -- is <em>void ab initio</em>. Void from the beginning. It conveys nothing. No matter how many times a forged deed is bought and sold afterward, it never transfers valid title. In theory, this is a strong protection: if your name was forged, you remain the legal owner regardless of what the public records say.</p>
+
+<p>In practice, "in theory" does a lot of heavy lifting. Proving forgery requires a lawsuit -- which requires an attorney, court filings, expert witnesses, and years of litigation. While that lawsuit proceeds, the fraudulent deed sits in the public record, clouding your title. You cannot easily sell or refinance. If the fraudster has already sold to a third party who paid fair market value and had no knowledge of the fraud, that innocent buyer is also a victim -- and both of you now have competing claims to the same house.</p>
+
+<p>A <strong>fraudulently induced deed</strong> -- where the real owner was deceived into signing, as when someone misrepresents what a document says -- is only <em>voidable</em>. The owner can ask a court to set it aside. But here is the catch: an innocent third-party buyer who purchased for fair value without knowledge of the fraud may have enforceable rights that compete with the original owner's claim. Texas's bona fide purchaser doctrine provides real protection to good-faith buyers in the voidable context.</p>
+
+<p>The practical result is that deed fraud victims -- whether they were forged or deceived -- almost always end up in prolonged, expensive litigation with no guaranteed outcome. The law recognizes the wrong. Recovering from it is another matter entirely.</p>
+
+<h2>The Scale of the Problem in Texas</h2>
+
+<p>Sam Cormier's story is dramatic, but it is not unique. In Harris County, a single deed fraud operation required the return of 40 properties to their rightful owners before prosecutors could stop it. In Dallas-Fort Worth, WFAA's investigative team documented a fraudster who continued filing fake deeds on North Texas properties from his prison cell -- after conviction -- because nothing in the recording system prevented it. The FBI's Internet Crime Complaint Center tracked nearly 1,500 Americans over age 60 who lost a combined $65 million to real estate fraud in a single recent year.</p>
+
+<p>The title insurance industry, which quietly absorbs enormous amounts of this risk, paid $502.9 million in claims in the first nine months of 2024 alone. The American Land Title Association estimates that roughly 25 percent of all U.S. real estate transactions contain some title defect that must be found and cured before closing -- in most cases without the buyer or seller ever knowing a problem existed.</p>
+
+<p>In Texas, the targets are disproportionately elderly homeowners with paid-off properties. A paid-off house has no lender monitoring the title. There are no monthly mortgage statements that might flag a problem. There is often no one paying close attention to county records. For a fraudster, that combination -- clear title, unmonitored, owned by someone who may not be checking their county clerk portal regularly -- represents an ideal target.</p>
+
+<h2>What Texas Did About It in 2025</h2>
+
+<p>By the time the Texas Legislature convened its 89th session in 2025, deed fraud had become a front-page issue across the state. AARP Texas made it a priority legislative goal, citing the targeting of seniors. The Legislature responded with a package of new laws effective September 1, 2025:</p>
+
+<ul>
+  <li><strong>SB 1734</strong> requires county clerks to flag suspected fraudulent deed filings and creates a formal reporting mechanism for title fraud complaints directed to clerk's offices across Texas.</li>
+  <li><strong>SB 693</strong> stiffens criminal penalties for fraudulent property filings, elevating certain deed fraud offenses and adding mandatory minimum consequences that make prosecution a more meaningful deterrent.</li>
+  <li><strong>SB 16</strong> authorizes -- but does not require -- counties to implement identity verification at the point of filing. Individual counties must opt in. Harris County moved quickly. Many others have not yet acted.</li>
+</ul>
+
+<p>These are genuine improvements. But they are not a complete solution. SB 16's verification program is voluntary, meaning the level of protection across Texas's 254 counties will remain uneven for years. And all three new laws are primarily reactive: they address what happens after fraud is attempted or discovered. The foundational vulnerability -- that Texas's recording system is open, presumption-based, and historically unverified -- remains structurally intact.</p>
+
+<h2>What Every Texas Homeowner Can Do Right Now</h2>
+
+<p>The best protection available to most Texas homeowners today is not a new law. It is a combination of vigilance, professional guidance, and a few concrete actions that take minutes to set up:</p>
+
+<ul>
+  <li><strong>Sign up for property alert monitoring.</strong> Most Texas counties now offer free alerts when any document referencing your property address or name is filed. Collin County homeowners can register through the county clerk's website. Dallas County residents can use the Dallas Central Appraisal District's monitoring tools. This does not prevent fraud -- but it provides early warning before equity is stripped.</li>
+  <li><strong>Check your county records annually.</strong> Visit your county clerk's online portal, search for your name and property address, and look for any deeds, liens, or instruments you did not authorize. Ten minutes, once a year.</li>
+  <li><strong>Confirm your homestead exemption is on file.</strong> Texas's constitutional <a href="/practice-areas/estate-planning">homestead protections</a> create additional legal barriers around your primary residence and limit the types of liens that can attach to it. Make sure your exemption is filed with your county appraisal district -- and note that recent Texas legislation may require some homeowners to renew their exemption on file.</li>
+  <li><strong>Understand what your title insurance actually covers.</strong> Owner's title insurance, purchased at closing, protects against defects in title that existed at the time of your purchase. It does not cover post-closing fraud. If you purchased only a lender's policy, you may have no personal protection at all. Talk to a <a href="/practice-areas/real-estate-law">Texas real estate attorney</a> about your specific situation.</li>
+  <li><strong>Review your estate planning documents.</strong> Many deed fraud victims are elderly Texans whose powers of attorney were drafted decades ago without modern safeguards. An overly broad or outdated power of attorney can give a bad actor legal cover to transfer property. A current, carefully drafted durable power of attorney from a licensed Texas <a href="/practice-areas/estate-planning">estate planning attorney</a> limits this exposure considerably.</li>
+  <li><strong>Act immediately if you suspect fraud.</strong> Time is not neutral in these cases. Filing a suit to quiet title or void a fraudulent deed is time-sensitive. Evidence disappears. Fraudsters move assets. The longer a fraudulent deed sits in the public record without challenge, the more complicated the clearing process becomes -- and the greater the risk that an innocent third-party buyer enters the picture with competing rights.</li>
+</ul>
+
+<h2>The Promise at the Core of Property Law</h2>
+
+<p>Sam Cormier eventually recovered most of his properties. The fight required the intervention of Harris County prosecutors, civil attorneys, and ultimately the courts. It took years. He was lucky, in the way that survivors of something terrible are described as lucky -- meaning they endured something they never should have been subjected to in the first place.</p>
+
+<p>Most deed fraud victims in Texas do not get that outcome. They get prolonged litigation, legal bills they cannot absorb, and in some cases, property that has already been sold to an innocent third party who also has legitimate rights to it. The system that was supposed to guarantee the security of their title -- one of the oldest promises of American property law -- turned out to have a door that almost anyone could open.</p>
+
+<p>The 2025 Texas legislation closes some of those doors. But the best protection a Texas homeowner has right now is not a statute. It is the combination of active vigilance, regularly updated estate planning documents, and legal counsel from attorneys who understand how <a href="/practice-areas/real-estate-law">Texas real estate law</a> actually works -- not how it is supposed to work in theory, but how it operates at a county clerk's counter, in a courtroom, and in the long and expensive aftermath of a deed filed by a stranger.</p>
+
+<p>If you have questions about protecting your property title, updating your estate plan, or clearing a cloud on title in the McKinney, Frisco, Plano, or broader North Texas area, <a href="/contact">contact Willingham Law Group</a>. We work with Texas homeowners every day on exactly these issues.</p>
+
+<p><em>This article is provided for general informational purposes only and does not constitute legal advice. Texas real estate and property law is complex and fact-specific. If you believe you may be a victim of deed fraud or have concerns about your property title, please consult a licensed Texas real estate attorney promptly.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
