@@ -2191,6 +2191,123 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p><em>This article is for general informational purposes only and does not constitute legal advice. Property tax laws, deadlines, and exemption requirements change regularly. Consult a licensed Texas attorney or certified tax professional for guidance specific to your situation.</em></p>`,
   },
+  {
+    slug: "how-long-does-probate-take-texas",
+    title: "How Long Does Probate Take in Texas?",
+    excerpt:
+      "Most Texas probate takes six to twelve months — but the right approach can cut that to weeks. Here's what actually drives the timeline and how to set realistic expectations.",
+    category: "Probate",
+    date: "2026-04-17",
+    author: "Willingham Law Group",
+    readTime: "9 min read",
+    metaDescription:
+      "How long does probate take in Texas? Independent administration typically takes 6–12 months. Learn the four paths, the creditor period timeline, and what causes delays.",
+    content: `<p>When Robert's mother died in Frisco last spring, a neighbor who had been through probate in California warned him it would take at least two years. Robert braced for that. He arranged his finances around a long wait. He told his siblings not to expect anything soon.</p>
+
+<p>Seven months after his mother's death, the estate was fully administered. The house had been transferred. The savings account had been distributed. The final accounting had been filed with the Collin County probate court and accepted without comment.</p>
+
+<p>The neighbor had not been lying about California. But Texas is not California. The state has built one of the most executor-friendly probate systems in the country — with streamlined procedures, minimal court intervention, and a legal framework designed to move assets to families quickly rather than to generate court proceedings. For most uncomplicated estates, Texas probate is measured in months, not years.</p>
+
+<p>The real variable is which of several available legal paths an estate qualifies for. Choose the right one, and the process is straightforward. Choose the wrong one, or stumble into it without understanding your options, and the timeline grows considerably. Here is what actually determines how long probate takes in Texas.</p>
+
+<h2>Why Texas Probate Has a Reputation for Moving Quickly</h2>
+
+<p>In most states, probate means months of mandatory court supervision, judicial approval at every step, and professional fees that accumulate throughout. Texas took a different approach. The state's default probate mechanism — called <strong>independent administration</strong> — gives the executor sweeping authority to settle the estate without seeking court approval for each individual action. Once the court appoints the executor and issues letters testamentary, the executor can pay creditors, sell property, manage accounts, and distribute assets largely on their own timeline.</p>
+
+<p>This design makes Texas probate dramatically faster than states where courts must approve every transaction. The primary constraint on Texas probate timelines is not judge availability or court procedures — it is the mandatory waiting periods built into Texas law to protect creditors and missing heirs.</p>
+
+<h2>The Four Main Paths for Settling a Texas Estate</h2>
+
+<p>Texas offers several distinct legal mechanisms for transferring assets at death. The right choice depends on the size of the estate, whether there is a valid will, and what assets are involved.</p>
+
+<h3>1. Muniment of Title: The Fastest Court-Based Process (4–8 Weeks)</h3>
+
+<p>If a Texas decedent left a valid will and has no outstanding debts — other than mortgage liens on specific property — the estate may qualify for muniment of title under <strong>Texas Estates Code §257.001</strong>. This is not a full probate. There is no executor appointed, no creditor waiting period, and no ongoing administration. Instead, the will itself is admitted to court as a title document, and the court issues an order that transfers title directly to the beneficiaries named in the will.</p>
+
+<p>The entire process typically takes four to eight weeks: a couple of weeks to prepare the application and schedule a hearing, and then the court issues its order. That order is then recorded with the county clerk to transfer real property. Muniment of title is genuinely fast — but it only works when there are truly no unsecured debts outstanding. If any exist, the estate needs a process that includes a formal creditor period.</p>
+
+<h3>2. Independent Administration: The Standard Texas Probate (6–12 Months)</h3>
+
+<p>Independent administration is what most people mean when they talk about Texas probate. It is the default procedure when a will exists — and it handles the vast majority of Texas estates. Under <strong>Texas Estates Code §401.001</strong>, an executor named in the will is typically granted independent administration authority, meaning the court's role largely ends after the initial hearing.</p>
+
+<p>For a typical estate — a house, bank accounts, some personal property, no major creditor disputes — independent administration takes six to twelve months from start to finish. The single biggest driver of that timeline is the mandatory four-month creditor period, which cannot be shortened regardless of how efficiently the executor moves.</p>
+
+<h3>3. Small Estate Affidavit: No Court Appearance Required (2–6 Weeks)</h3>
+
+<p>For estates where the total value of assets — excluding the homestead and exempt property — does not exceed $75,000, and where there is no will (or the will has not been admitted to probate), Texas offers the small estate affidavit under <strong>Texas Estates Code §205.001</strong>. This procedure requires no court hearing. The heirs sign a sworn affidavit identifying the assets and debts, have it notarized, and present it directly to financial institutions — or record it with the county clerk for real property.</p>
+
+<p>Processing time is largely administrative: a few weeks from signature to having assets in hand. The limitation is the $75,000 cap and certain restrictions on when the procedure is available.</p>
+
+<h3>4. Dependent Administration: Court-Supervised, Longer (1–3 Years)</h3>
+
+<p>Dependent administration requires judicial approval for each significant action — selling property, paying large debts, distributing assets. It is typically only used when the will requires it, when heirs cannot agree on an independent executor, or when there is a dispute about the estate.</p>
+
+<p>Because each action requires a court hearing, dependent administration is substantially longer and more expensive than independent administration. Contested matters, valuation disputes, and crowded court dockets can stretch the process to two years or more. This is the procedure that generates the horror stories about probate — but in Texas, it is the exception, not the rule.</p>
+
+<h2>A Typical Independent Administration: Step by Step</h2>
+
+<p>Understanding how independent administration unfolds in practice helps set realistic expectations. Using Collin County as an example — Dallas and Denton County timelines are similar — here is how the process typically moves.</p>
+
+<h3>Filing and the Initial Hearing (Weeks 1–3)</h3>
+
+<p>The process begins when the executor files an application to probate the will with the county court at law. The application includes the original will, a death certificate, and basic information about the estate's assets and heirs. Most Texas probate courts schedule hearing dates two to three weeks after filing. At the hearing — which typically lasts fifteen to thirty minutes — the judge examines the will, confirms it meets Texas requirements, and issues an order admitting it to probate. The clerk then issues <strong>letters testamentary</strong>: the official documents that authorize the executor to act on behalf of the estate.</p>
+
+<h3>The Mandatory Creditor Period (Months 1–5)</h3>
+
+<p>After letters testamentary are issued, the executor must notify creditors. Under <strong>Texas Estates Code §308.051</strong>, the executor sends written notice to all known creditors. A notice to creditors is also published in a local newspaper under §308.001, which can bar claims from unknown creditors after the waiting period expires.</p>
+
+<p>From the date written notice is sent, known creditors generally have <strong>four months</strong> to file a claim against the estate. This four-month window is the primary reason independent administration takes at least six months — even if the executor is fully prepared to close the estate sooner, creditors who received notice have the right to file claims within that window.</p>
+
+<h3>Settling Debts and Managing Assets (Months 2–6)</h3>
+
+<p>While the creditor period runs, the executor is actively working. Real property is retitled or sold. Financial accounts are consolidated. Personal property is inventoried. An inventory and appraisement of estate assets is filed with the court. Final income tax returns are prepared for the decedent. Any estate tax obligations are assessed — though federal estate taxes only apply to estates exceeding the applicable federal exemption, which for 2024 was $13.61 million per person.</p>
+
+<h3>Distribution and Closing (Months 6–12)</h3>
+
+<p>Once the creditor period has run and all valid claims have been paid or resolved, the executor distributes the remaining assets to beneficiaries according to the will. For most Texas estates, this is the home stretch — transferring accounts, recording deeds, and formally winding down administration. The estate is then closed, either by filing a closing report or by the executor providing notice that administration is complete.</p>
+
+<p>For a routine estate, the entire process — from filing to closing — typically takes <strong>six to nine months</strong>. Estates with real property in multiple counties, business interests, or a larger number of creditors routinely take ten to fourteen months.</p>
+
+<h2>What Makes Texas Probate Take Longer</h2>
+
+<p>Even under independent administration, certain circumstances predictably extend the timeline:</p>
+
+<ul>
+  <li><strong>Will contests.</strong> When a beneficiary or potential heir challenges the validity of the will — claiming undue influence, lack of testamentary capacity, or fraud — the probate is effectively paused until the contest is resolved. Will contests can add one to three years to the process.</li>
+  <li><strong>Out-of-state real property.</strong> If the decedent owned real estate in another state, an ancillary probate proceeding is required in that state — running parallel to the Texas proceeding and subject to that state's timeline and rules.</li>
+  <li><strong>Business interests.</strong> Estates that include ownership interests in a closely held business require professional valuation, and potentially negotiation over buy-sell agreements or partnership interests. Appraisals take time; disputes about value take longer.</li>
+  <li><strong>Disputes among heirs.</strong> Even without a formal will contest, disagreements about who should serve as executor, how assets should be divided, or what items are worth can slow every step of the process and generate additional legal proceedings.</li>
+  <li><strong>Missing beneficiaries or unknown creditors.</strong> When the executor cannot locate a beneficiary or is uncertain whether all creditors have been identified, the estate may need to stay open longer to protect against future claims.</li>
+  <li><strong>Court docket congestion.</strong> In high-volume counties like Dallas, Tarrant, and Harris, hearing dates may be harder to schedule than in Collin or Denton County. The difference is typically measured in weeks rather than months, but it adds up.</li>
+</ul>
+
+<h2>The Deadline You Cannot Miss: Four Years From Death</h2>
+
+<p>Texas Estates Code §256.003 requires that an application to probate a will must be filed within <strong>four years of the decedent's death</strong>. Miss that deadline and the will generally cannot be admitted to probate — leaving the estate to be distributed as if the person had died without a will, according to Texas's intestacy statutes.</p>
+
+<p>Four years sounds like a long time, and for most families it is. But for families navigating complicated grief, unresolved family conflict, or estates where no one wants to take responsibility for starting the process, those years can pass faster than expected. There is no benefit to waiting — and several significant risks.</p>
+
+<h2>Planning Ahead to Make Probate Faster and Simpler</h2>
+
+<p>The length of probate is not only determined by what happens after death — it is largely shaped by what planning was done before. Estates with clear, current estate plans and coordinated beneficiary designations are faster and simpler to settle. Specific tools that reduce or eliminate probate delays include:</p>
+
+<ul>
+  <li><strong>Beneficiary designations</strong> on life insurance, retirement accounts, and payable-on-death bank accounts — these assets pass directly to named individuals without probate, often within days of presenting a death certificate.</li>
+  <li><strong>Lady Bird deeds</strong> (enhanced life estate deeds) that allow real property to transfer automatically at death without triggering a probate proceeding. Texas is one of only a handful of states that recognizes this deed type.</li>
+  <li><strong>Revocable living trusts</strong> that hold the estate's core assets and distribute them at death according to the trust's terms — no court, no creditor waiting period, no letters testamentary required.</li>
+  <li><strong>Transfer-on-death deeds</strong> for real property, which accomplish a similar result to a Lady Bird deed and became widely available in Texas through the Texas Real Property Transfer on Death Act.</li>
+</ul>
+
+<p>These tools can reduce the estate subject to probate to a fraction of total assets, making the entire process faster, less expensive, and far less stressful for the family left behind. They also address situations — such as incapacity before death — that probate cannot touch at all.</p>
+
+<h2>Get the Timeline Right From the Start</h2>
+
+<p>The difference between a six-week muniment of title and a fourteen-month independent administration is not luck — it is preparation, the right legal approach chosen from the beginning, and an attorney who understands the options. For families in Frisco, Plano, McKinney, Allen, and across the Dallas-Fort Worth Metroplex, the Collin, Denton, and Dallas County probate courts are well-staffed and predictable. Most routine estates move on schedule.</p>
+
+<p>At <a href="/contact">Willingham Law Group</a>, we help executors understand which probate process fits their estate, set a realistic timeline, and navigate the creditor period and court requirements efficiently. Whether you are administering an estate now or planning ahead to make things simpler for your family, our <a href="/practice-areas/probate">probate practice</a> is here to help.</p>
+
+<p><em>This article provides general legal information about Texas probate law and is not legal advice. Timelines vary based on individual circumstances, court schedules, and the complexity of the estate. If you are administering a Texas estate, consult a licensed Texas probate attorney.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
