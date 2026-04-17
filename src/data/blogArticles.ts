@@ -2051,6 +2051,23 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 </ul>
 <p>If you are contacted by a debt collector after the death of a loved one, proceed carefully. You are not required to pay a debt you did not personally incur. Consult an attorney before making any payments or agreements with collectors.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Do children inherit their parent's debt in Texas?</h3>
+<p>Generally, no. Children do not personally inherit a parent's unsecured debts in Texas. Creditors may file claims against the parent's <a href="/practice-areas/probate">probate estate</a>, but children are not personally liable for debts they did not co-sign. If the estate has insufficient assets to cover all debts, the remaining unpaid balance is extinguished — not passed on to heirs.</p>
+
+<h3>What happens to a mortgage when someone dies in Texas?</h3>
+<p>A mortgage is a secured debt tied to the property. It does not disappear at death — it follows the property. A beneficiary who inherits a home must either continue making mortgage payments or sell the property to satisfy the lien. Federal law (the Garn-St. Germain Act) generally prohibits lenders from calling a loan due solely because of a transfer to a close family member by inheritance.</p>
+
+<h3>How long do creditors have to file a claim against a Texas estate?</h3>
+<p>Creditors who receive direct written notice from the executor generally have four months from that notice to file a claim. Creditors who are not given direct written notice have four months from publication of the creditor notice in a local newspaper, or 180 days from the date letters testamentary are issued — whichever is later. After these deadlines, most late claims are barred.</p>
+
+<h3>Can creditors force the sale of the family home in Texas?</h3>
+<p>Typically not. The Texas homestead exemption protects the surviving spouse and minor children from unsecured creditors forcing a sale of the homestead. This is one of the strongest creditor protections in Texas law. However, secured creditors with a lien on the property — such as a mortgage lender — retain their rights against the collateral.</p>
+
+<h3>What happens to credit card debt when you die in Texas?</h3>
+<p>If the credit card account was in your name alone, the credit card company must file a claim against your estate through the <a href="/practice-areas/probate">probate process</a>. If the estate has sufficient assets, the claim is paid from estate funds before heirs receive anything. If the estate cannot cover the balance, the remaining debt is not collectable from your heirs — unless they co-signed the account or it was a community debt incurred during marriage. Surviving spouses should consult an attorney before making any payments on a deceased spouse's separate credit card debt, as doing so could imply personal liability.</p>
+
 <h2>Practical Steps to Protect Your Family</h2>
 <p>For families across North Texas — whether in Frisco, Plano, McKinney, Allen, or the broader Dallas-Fort Worth area — understanding how debts work at death helps you plan more effectively. Here are practical steps to consider:</p>
 <ul>
