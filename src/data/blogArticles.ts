@@ -78,7 +78,7 @@ Texas homestead laws offer robust protection for homeowners and surviving spouse
     metaDescription:
       "Learn Indiana's legal requirements for creating a valid will, including age, capacity, witnesses, signatures, and self-proving affidavits.",
     wixSlug: "indiana-s-requirements-to-create-a-valid-will",
-    content: `*Note: This article covers Indiana law for informational purposes only. Willingham Law Group is a Texas-based firm and does not practice law in Indiana. If you need assistance with an Indiana will, please consult an attorney licensed in Indiana.*
+    content: `*Note: This article covers Indiana law for informational purposes only. WG Law is a Texas-based firm and does not practice law in Indiana. If you need assistance with an Indiana will, please consult an attorney licensed in Indiana.*
 
 Creating a valid will in Indiana requires meeting several legal requirements. Here is what you need to know:
 
@@ -1761,7 +1761,7 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
       "In Texas, a forger can walk into the county clerk's office, file a fake deed on your home, and transfer your title — without your knowledge. Here's how it happens and what the law can — and can't — do about it.",
     category: "Real Estate",
     date: "2026-04-15",
-    author: "Willingham Law Group",
+    author: "WG Law",
     readTime: "9 min read",
     metaDescription:
       "Texas deed fraud is rising fast. Learn exactly how home title theft works, what the 2025 Texas laws changed, and how to protect your property right now.",
@@ -1842,7 +1842,7 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p>The 2025 Texas legislation closes some of those doors. But the best protection a Texas homeowner has right now is not a statute. It is the combination of active vigilance, regularly updated estate planning documents, and legal counsel from attorneys who understand how <a href="/practice-areas/real-estate-law">Texas real estate law</a> actually works -- not how it is supposed to work in theory, but how it operates at a county clerk's counter, in a courtroom, and in the long and expensive aftermath of a deed filed by a stranger.</p>
 
-<p>If you have questions about protecting your property title, updating your estate plan, or clearing a cloud on title in the McKinney, Frisco, Plano, or broader North Texas area, <a href="/contact">contact Willingham Law Group</a>. We work with Texas homeowners every day on exactly these issues.</p>
+<p>If you have questions about protecting your property title, updating your estate plan, or clearing a cloud on title in the McKinney, Frisco, Plano, or broader North Texas area, <a href="/contact">contact WG Law</a>. We work with Texas homeowners every day on exactly these issues.</p>
 
 <p><em>This article is provided for general informational purposes only and does not constitute legal advice. Texas real estate and property law is complex and fact-specific. If you believe you may be a victim of deed fraud or have concerns about your property title, please consult a licensed Texas real estate attorney promptly.</em></p>`,
   },
@@ -1854,7 +1854,7 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
       "Texas ranks third in the nation for elder fraud complaints — and 72% of perpetrators are family members. Here's what the law says and how to protect your family.",
     category: "Elder Law",
     date: "2026-04-16",
-    author: "Willingham Law Group",
+    author: "WG Law",
     readTime: "8 min read",
     metaDescription:
       "Elder financial exploitation in Texas costs families millions — and 72% of perpetrators are family members. Learn the warning signs, Texas law, and how to protect loved ones.",
@@ -1953,7 +1953,7 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p>The most important thing Margaret's attorney told her, near the end of the litigation, was the thing she wished someone had told her before she ever handed David that piece of paper: <em>a power of attorney is only as safe as the oversight built around it.</em></p>
 
-<p>If you have questions about protecting an elderly parent's assets, reviewing an existing power of attorney, or responding to suspected financial exploitation in McKinney, Frisco, Plano, or anywhere in North Texas, <a href="/contact">contact Willingham Law Group</a>. Our <a href="/practice-areas/elder-law">elder law practice</a> helps families build the kind of planning that holds up when it matters most.</p>
+<p>If you have questions about protecting an elderly parent's assets, reviewing an existing power of attorney, or responding to suspected financial exploitation in McKinney, Frisco, Plano, or anywhere in North Texas, <a href="/contact">contact WG Law</a>. Our <a href="/practice-areas/elder-law">elder law practice</a> helps families build the kind of planning that holds up when it matters most.</p>
 
 <p><em>This article provides general information about Texas elder law and is not legal advice. Laws change and individual circumstances vary. If you believe financial exploitation is occurring, contact Adult Protective Services and a licensed Texas attorney promptly.</em></p>`,
   },
