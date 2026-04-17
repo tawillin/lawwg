@@ -2083,6 +2083,114 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 <p>At Willingham Law Group, we help executors, surviving spouses, and families across North Texas navigate the probate process, handle creditor claims, and protect the assets that matter most. Whether you are settling an estate now or want to plan ahead, we are here to help.</p>
 <p><em>This article provides general legal information about Texas law and is not legal advice. Every situation is different. If you have questions about a specific estate, debt, or probate matter, please consult a licensed Texas attorney.</em></p>`,
   },
+  {
+    slug: "how-to-protest-property-taxes-texas-2026",
+    title: "How to Protest Your Texas Property Taxes Before the May 15 Deadline",
+    excerpt:
+      "71% of DFW homeowners skipped their property tax protest in 2025 and left thousands on the table. Here's how to fight your appraisal — and why most Texans who try actually win.",
+    category: "Real Estate",
+    date: "2026-04-17",
+    author: "Willingham Law Group",
+    readTime: "8 min read",
+    metaDescription:
+      "Your Texas property appraisal notice just arrived. Here's how to protest before May 15 — and why most DFW homeowners who fight their tax bill actually win.",
+    content: `<p>In the spring of 2024, two neighbors on the same cul-de-sac in Frisco, Texas, opened nearly identical envelopes from the Collin Central Appraisal District. Inside each was a Notice of Appraised Value showing their homes — built the same year, same floor plan, same zip code — had jumped to $698,000, up from $545,000 the year before. For Carlos Medina, the notice went into the recycling bin. He'd heard you couldn't fight the appraisal district. He paid the tax bill in January, muttering about it over the backyard fence.</p>
+
+<p>His neighbor, Lisa Kowalski, spent forty minutes on the Collin CAD website filing a protest online. She brought two comparable sales from two streets over — houses with the same square footage that had sold for $647,000 and $651,000. At her informal hearing in May, a district appraiser reviewed the comps and reduced her appraised value to $648,000. Her tax savings: just over $1,900 for the year.</p>
+
+<p>Carlos didn't lose a lawsuit. He didn't make a mistake on a form. He simply didn't know he had the right to push back — and that most Texans who do push back, win. Over five years of not protesting, while the appraisal cap compounded from a higher base, Carlos would leave more than $9,000 on his kitchen table.</p>
+
+<p>This story plays out in neighborhoods across McKinney, Plano, Allen, and Frisco every single spring. And the numbers behind it are staggering: in 2025, <strong>71% of DFW homeowners did not file a property tax protest</strong>. They assumed the appraisal district's number was the number. It isn't.</p>
+
+<h2>The Right You Didn't Know You Had</h2>
+
+<p>Under the Texas Property Tax Code — Chapter 41 — every property owner has the legal right to protest their appraised value to the Appraisal Review Board (ARB) each year. You don't need an attorney to file. You don't need specialized knowledge. You need one thing: a Notice of Protest filed before the deadline.</p>
+
+<p>The deadline for 2026 is <strong>May 15, 2026</strong>, or 30 days after your Notice of Appraised Value is mailed — whichever is later. If you haven't received your notice yet, check your appraisal district's online portal. Collin CAD, Denton CAD, and Dallas CAD all allow online filing, and most will send email alerts once notices go out.</p>
+
+<p>Here's what most homeowners don't realize: you're not contesting the government's authority to tax your property. You're contesting whether the <em>number</em> they assigned is accurate. The appraisal district uses mass appraisal models to value hundreds of thousands of properties at once. Those models make mistakes. They don't know about the foundation crack in your garage, the traffic noise from the new highway behind your fence, or the fact that your kitchen still has laminate countertops while every comparable sale in their model had a full gut renovation.</p>
+
+<h2>Why You're More Likely to Win Than You Think</h2>
+
+<p>In 2025, between 60% and 80% of Texas property tax protests resulted in a value reduction. In Dallas County, the informal review stage resolved the vast majority of cases with an 84% success rate at that first step alone. Statewide, homeowners who filed and followed through saved an average of $1,945 per year. In Collin County specifically, the average reduction in appraised value was $25,624.</p>
+
+<p>Read that last number again. Twenty-five thousand dollars in appraised value, gone — because someone filed a form and showed up to a meeting.</p>
+
+<p>A homeowner who protests every year for five years, saving a modest $1,200 annually, keeps $6,000 more than their neighbor who stays silent. And because of how the 10% homestead cap compounds, the gap widens every year. Once you let your appraised value climb unchallenged, you're starting from a higher base the following year — and the year after that.</p>
+
+<h2>The Step Most People Skip: The Informal Hearing</h2>
+
+<p>When you file a protest, most appraisal districts will schedule you for an <strong>informal review</strong> first — a brief meeting with a district appraiser before your formal ARB hearing. This is where the vast majority of Texas property tax protests actually get resolved, and it's the step that most homeowners don't know about.</p>
+
+<p>The informal review is not adversarial. You sit across from a staff appraiser — often over video or phone now — present your evidence, and they have authority to adjust your value on the spot. No board. No courtroom drama. No formal presentation. Just a conversation, backed by data.</p>
+
+<p>If the informal review doesn't resolve your case to your satisfaction, you proceed to a formal ARB hearing. The ARB is an independent panel — not employees of the appraisal district — that hears your evidence and the district's evidence and makes a determination. You have the right to cross-examine the district's witnesses and to see their evidence package before the hearing date.</p>
+
+<h2>How to Build Your Case: What Evidence Actually Works</h2>
+
+<p>The most powerful evidence in a Texas property tax protest is <strong>comparable sales data</strong> — proof that similar homes in your neighborhood sold for less than your appraised value. Here's how to find and use it effectively:</p>
+
+<ul>
+  <li><strong>Pull comparable sales from public records.</strong> The appraisal district's own property search tool is your starting point. Look for sales within a half-mile radius, with similar square footage (within 15%), similar age, and similar condition — sold within the last six to twelve months.</li>
+  <li><strong>Adjust for real differences.</strong> If your comparable is slightly larger, note that. If it had an updated kitchen yours doesn't, note that too. The goal is to show the district's model overvalued your home relative to actual market transactions.</li>
+  <li><strong>Document condition issues.</strong> Deferred maintenance, foundation problems, drainage issues, proximity to commercial noise or new traffic — these legitimately reduce market value. Bring photos and, where applicable, contractor estimates.</li>
+  <li><strong>Request the district's evidence package.</strong> Under Texas law, you can request the appraisal district's own evidence before your formal hearing. Review it carefully — sometimes their own comparable sales support a lower value than they assigned you.</li>
+</ul>
+
+<h2>Understanding the 10% Cap — And Why It Doesn't Mean You're Safe</h2>
+
+<p>Here's a concept that trips up many Texas homeowners: the <strong>homestead appraisal cap</strong>. Under Texas Tax Code Section 23.23, if you have a homestead exemption on file, your appraised value cannot increase by more than 10% per year — regardless of what the market actually did.</p>
+
+<p>So if the market value of your home jumped from $500,000 to $650,000 in one year, but your prior appraised value was $500,000, the district can only raise your appraised value to $550,000. The cap protects you — for now.</p>
+
+<p>But here's the critical piece: the appraisal district will still list the full market value ($650,000) on your notice. Over time, as the cap compounds year over year, that gap between market value and appraised value can become enormous. The moment you lose your homestead exemption — because you moved, rented the property out, or the home passed through <a href="/practice-areas/probate">probate</a> to a new owner — the cap disappears entirely. The new owner may suddenly face a tax bill based on the full, uncapped market value.</p>
+
+<p>This is precisely why <strong>even homeowners currently protected by the cap should consider protesting</strong>. You're fighting the market value figure, which is the ceiling your appraised value will keep rising toward. Reducing the market value today limits how far the appraised value can grow — and reduces the tax shock for whoever inherits your home.</p>
+
+<p>This interaction between property tax appraisals and estate planning is something our clients in McKinney and Frisco increasingly ask about. When property transfers through a <a href="/blog/lady-bird-deeds-texas-estate-planning">Lady Bird Deed</a> or a revocable trust, understanding how the cap resets is essential to planning the transfer correctly. At Willingham Law Group, we make sure our clients understand these downstream effects as part of their <a href="/practice-areas/real-estate-law">real estate</a> and <a href="/practice-areas/estate-planning">estate planning</a> strategy.</p>
+
+<h2>Don't Leave Your Exemptions on the Table Either</h2>
+
+<p>Before you file a protest, make sure you're taking every exemption you're entitled to. Exemptions and protests are separate processes — and both have deadlines. Exemption applications are generally due <strong>April 30</strong>. Here's what's available:</p>
+
+<ul>
+  <li><strong>General Homestead Exemption:</strong> Removes $100,000 from your home's appraised value for school district taxes — the amount was increased under Proposition 4 in 2023. This alone can save hundreds of dollars per year.</li>
+  <li><strong>Over-65 Exemption:</strong> An additional $10,000 school district exemption, plus a tax freeze — your school district taxes cannot increase once you qualify, for as long as you own and occupy the home.</li>
+  <li><strong>Disability Exemption:</strong> Same $10,000 school district benefit as the over-65 exemption, available to qualifying disabled individuals.</li>
+  <li><strong>Veterans Exemptions:</strong> Range from partial exemptions to a 100% exemption for totally disabled veterans, along with surviving spouse protections.</li>
+</ul>
+
+<p>If you're 65 or older and haven't filed for the over-65 exemption, do so before April 30. The savings — especially the tax freeze — are among the most powerful protections Texas law offers older homeowners.</p>
+
+<h2>When to Get Professional Help</h2>
+
+<p>For most homeowners protesting a single-family residence, the DIY process is entirely manageable: file online, gather comparable sales, attend the informal meeting. But there are situations where professional representation changes the outcome:</p>
+
+<ul>
+  <li><strong>High-value properties</strong> where a small percentage reduction translates to large dollar savings justify the cost of representation</li>
+  <li><strong>Commercial or investment properties</strong> that require income-approach or cost-approach valuation analysis beyond simple sales comparisons</li>
+  <li><strong>Cases past the informal review</strong> heading to a formal ARB hearing, where understanding the board's rules and cross-examination procedures matters</li>
+  <li><strong>District court appeals</strong> — if you disagree with the ARB's final determination, you can appeal to district court within 60 days, but this step absolutely requires a licensed Texas attorney</li>
+</ul>
+
+<p>Property tax protest companies — which typically work on contingency, taking a percentage of the savings — can be a reasonable option for homeowners who don't want to handle the process themselves. For complex matters that reach district court, or where the protest intersects with a real estate transaction, trust, or probate proceeding, an attorney familiar with Texas property law is the right call.</p>
+
+<h2>Back on the Cul-de-Sac in Frisco</h2>
+
+<p>Carlos Medina eventually learned what his neighbor Lisa had done. By the time he filed his first protest — three years after that original notice — his appraised value had climbed to $731,000 under the compounding cap, starting from the unchallenged high. Lisa's, meanwhile, sat at $683,000 — still rising, but from a lower base.</p>
+
+<p>At his first informal hearing, Carlos brought comparable sales and a contractor's estimate for some deferred foundation work. His appraiser — polite, professional, nothing like the bureaucratic wall he'd imagined — reduced his value by $38,000. His property tax bill dropped by more than $1,000 that year.</p>
+
+<p>"I didn't know I could do this," he said afterward. He's filed every year since.</p>
+
+<p>That's the thing about the Texas property tax protest process. It isn't hidden. It's a legal right, codified in the Texas Property Tax Code, documented on the appraisal district's own website, and used successfully by hundreds of thousands of Texas homeowners every year. The system works — for the people who use it. Most Texans simply never try.</p>
+
+<p>If your Notice of Appraised Value hasn't arrived yet, it will. When it does, don't throw it in the recycling bin. You have until May 15, 2026, to file a protest. Forty minutes, a few comparable sales, and one informal conversation with an appraiser might be the most profitable afternoon you spend this spring.</p>
+
+<p><strong>Have questions about how your property appraisal interacts with your estate plan, a pending real estate transfer, or a probate matter? <a href="/practice-areas/real-estate-law">Contact Willingham Law Group</a> — serving McKinney, Frisco, Plano, and the greater Dallas-Fort Worth area.</strong></p>
+
+<p><em>This article is for general informational purposes only and does not constitute legal advice. Property tax laws, deadlines, and exemption requirements change regularly. Consult a licensed Texas attorney or certified tax professional for guidance specific to your situation.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
