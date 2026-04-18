@@ -2308,6 +2308,111 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p><em>This article provides general legal information about Texas probate law and is not legal advice. Timelines vary based on individual circumstances, court schedules, and the complexity of the estate. If you are administering a Texas estate, consult a licensed Texas probate attorney.</em></p>`,
   },
+  {
+    slug: "digital-assets-cryptocurrency-estate-planning-texas",
+    title: "What Happens to Your Crypto When You Die? Texas Digital Asset Estate Planning",
+    excerpt:
+      "Texas is now America's premier cryptocurrency state — yet most Texans with digital assets have no estate plan for them. Here's what the law actually says, and what happens when private keys die with their owner.",
+    category: "Estate Planning",
+    date: "2026-04-18",
+    author: "WG Law",
+    readTime: "9 min read",
+    metaDescription:
+      "What happens to cryptocurrency when you die in Texas? Learn how RUFADAA works, why private keys matter, and how to protect digital assets in your estate plan.",
+    content: `<p>In April 2018, Matthew Mellon — heir to a banking dynasty, venture capitalist, and one of the earliest serious investors in cryptocurrency — died suddenly at a resort in Cancun, Mexico. He was 54 years old. What came next was not just grief. It was a forensic nightmare.</p>
+
+<p>Mellon had accumulated what was believed to be more than $1 billion in XRP, the digital currency issued by Ripple Labs. He had purchased early, watched the price surge, and held. He was not secretive about his wealth — he had given newspaper interviews about it. But what he had kept secret were the private keys and passwords to his digital wallets. They were stored, reportedly, in locations and formats that even his closest associates could not access. When Mellon died, so did the instructions.</p>
+
+<p>His family was left with something extraordinary: the legal right to inherit a fortune that nobody could reach. The XRP existed on the blockchain, mathematically provable, technically owned by his estate. But without the cryptographic keys, the wallets might as well have been buried in the ocean. No court order could unlock them. No attorney could compel the blockchain to transfer them. Legal authority and technical access are two entirely different things — and Mellon had only planned for one.</p>
+
+<p>The story spread through the cryptocurrency community as a cautionary tale. But it was not unique. It was not even unusual. It was — and remains — one of the most common planning failures in modern estate law. And as Texas cements its position as America's premier digital asset state, it is a failure that touches more Texas families every year.</p>
+
+<h2>Texas Has a Bigger Stake in This Problem Than Any Other State</h2>
+
+<p>Texas is not a passive bystander in the digital asset revolution. In 2025, the state enacted Senate Bill 21 and became the first state in the country to establish a strategic Bitcoin reserve — a state-managed fund that purchased Bitcoin as an official asset of Texas government. The state's Bitcoin mining industry accounts for a significant portion of global hash rate. Austin's tech corridor, Dallas's financial district, and Frisco's corporate campuses are home to some of the largest concentrations of cryptocurrency holders in the country.</p>
+
+<p>Tens of millions of Texans now hold some form of digital asset — not just Bitcoin, but Ethereum, Solana, NFTs, tokenized securities, and the digital equivalents of traditional financial accounts. And most of them have done exactly zero estate planning for those assets. Their traditional <a href="/practice-areas/estate-planning">estate plans</a> account for the house, the retirement account, the life insurance policy. They say nothing about the Ledger hardware wallet in the desk drawer or the Coinbase account with five years of accumulated gains.</p>
+
+<p>The result is a quiet catastrophe unfolding in probate courts across Texas. Executors discover accounts they cannot access. Families find hardware wallets with no instructions. Heirs inherit the legal right to assets that have effectively ceased to exist.</p>
+
+<h2>What Texas Law Actually Says: RUFADAA and Its Limits</h2>
+
+<p>In 2017, Texas adopted the Revised Uniform Fiduciary Access to Digital Assets Act, codified in Chapter 2001 of the Texas Estates Code. RUFADAA was a significant step: it established that executors, trustees, and other fiduciaries have legal authority to access and manage digital assets as part of a Texas estate, subject to certain procedural requirements.</p>
+
+<p>But RUFADAA has a limitation that most people — including many attorneys — fundamentally misunderstand. It grants <strong>legal authority</strong>. It does not grant <strong>technical access</strong>.</p>
+
+<p>Under RUFADAA, the law establishes a hierarchy for how access requests should be handled. First priority goes to the user's own expressed preference — if you designated a legacy contact on Facebook or used Google's Inactive Account Manager to specify what happens to your account, that designation controls. Second priority goes to the platform's terms of service. Third priority goes to the general access rules the state law provides.</p>
+
+<p>For email accounts, cloud storage, and social media, this framework works reasonably well. An executor can submit a proper request to Google, Apple, or Facebook, provide a death certificate and court-issued letters testamentary, and the company will typically comply. It is slow and bureaucratic, but it works.</p>
+
+<p>For cryptocurrency held in a self-custody wallet, the entire framework collapses — because there is no company to contact.</p>
+
+<h2>The One Distinction That Changes Everything</h2>
+
+<p>This is the most important technical concept in digital asset estate planning, and most people have never thought about it.</p>
+
+<p>If your cryptocurrency is held on a centralized exchange — Coinbase, Kraken, Gemini, or a similar platform — you have an account at a regulated financial institution. Your executor can contact that exchange, provide a death certificate and letters testamentary, and the exchange will work with the estate to transfer or liquidate the assets. It is inconvenient, but it works. RUFADAA handles it. Texas probate handles it.</p>
+
+<p>If your cryptocurrency is held in a self-custody wallet — a hardware device like a Ledger or Trezor, a software wallet like MetaMask, or any wallet where <em>you</em> hold your own private keys — the exchange is irrelevant. No company controls those assets. No court order compels the blockchain to respond. No attorney can petition a judge to override cryptographic mathematics.</p>
+
+<p>The only thing that unlocks a self-custody wallet is the <strong>seed phrase</strong>: typically twelve to twenty-four common words, randomly generated, that serve as the master key to the entire wallet. Preserve the seed phrase — store it securely, communicate its location to your executor — and your heirs can access everything. Lose it, destroy it, or simply never share it, and those assets are gone. Permanently. Irrevocably. Beyond any legal remedy that exists or is likely to exist.</p>
+
+<p>Across all of Bitcoin, researchers estimate that approximately <strong>13% of all coins are permanently inaccessible</strong> due to lost keys, destroyed hardware, and forgotten passwords. At current prices, that represents well over $100 billion in value that has vanished from the global financial system. It is the largest category of property loss in the history of finance — and most of it was perfectly preventable.</p>
+
+<h2>Beyond Cryptocurrency: The Full Scope of Digital Assets</h2>
+
+<p>Cryptocurrency earns the headlines, but it represents only a fraction of the digital assets Texas families fail to plan for. Consider what else lives online:</p>
+
+<ul>
+  <li><strong>Online business platforms.</strong> A successful YouTube channel, Substack newsletter, or Etsy shop may generate substantial monthly income. The credentials to log in and manage these platforms are the only thing standing between your heirs and that revenue stream.</li>
+  <li><strong>Domain names and websites.</strong> Domain portfolios can be worth significant money, and a business website may represent years of SEO investment. Without account access to the registrar, these assets expire.</li>
+  <li><strong>Digital financial accounts.</strong> PayPal balances, Venmo funds, and digital brokerage accounts held with newer fintech platforms are recoverable — but only if the executor knows they exist and knows where to look.</li>
+  <li><strong>Content creator accounts.</strong> Instagram followings, TikTok accounts, and podcast archives built over years have commercial value — in some cases, enormous value — that disappears without a succession plan.</li>
+  <li><strong>Personal and irreplaceable content.</strong> Cloud photo libraries, decades of email correspondence, family videos stored in online accounts. These may have no monetary value and immeasurable personal value. Texas's RUFADAA framework covers them, but only if someone takes the steps to make access possible.</li>
+</ul>
+
+<h2>What a Complete Digital Asset Estate Plan Looks Like</h2>
+
+<p>The good news is that planning for digital assets is not complicated. It requires thought and organization — not specialized technology. Here is what a comprehensive approach looks like for a Texas resident:</p>
+
+<h3>Build an Inventory</h3>
+
+<p>Start by listing every digital asset you own: cryptocurrency wallets and exchanges, social media accounts, email addresses, online business platforms, financial accounts, subscription services. This inventory does not need to live in your will — wills become public records through probate. Store it in a secure document, separate from your estate plan, with instructions for how and where to find it.</p>
+
+<h3>Secure Your Seed Phrases and Credentials</h3>
+
+<p>For self-custody cryptocurrency wallets, the seed phrase must be stored in a form that survives you and that can be found by the people who need it. This typically means a physical copy — handwritten or engraved on metal — stored in a fireproof safe, a safe deposit box, or a sealed envelope held by a trusted attorney. The seed phrase should never exist only on a device that can be lost, stolen, or locked.</p>
+
+<h3>Add Digital Asset Language to Your Will or Trust</h3>
+
+<p>A properly drafted Texas will or <a href="/practice-areas/estate-planning">revocable living trust</a> should include explicit provisions granting your executor or trustee authority to access, manage, transfer, and wind down your digital accounts and wallets. Generic executor language may not be sufficient for platforms governed by their own terms of service. Your attorney should know what to include.</p>
+
+<h3>Name a Capable Digital Executor</h3>
+
+<p>Texas law allows your will to designate someone with specific authority to manage digital assets. Consider naming someone who is both trustworthy and technologically capable — these are not always the same person. You can name a co-executor for digital matters if needed.</p>
+
+<h3>Use Platform Legacy Tools</h3>
+
+<p>Several major platforms have built-in succession tools that take ten minutes to configure and represent the most direct form of documented intent. Facebook allows you to designate a legacy contact who can manage or memorialize your account. Google's Inactive Account Manager lets you specify what happens to your data after a period of inactivity. Apple's Digital Legacy feature allows legacy contacts to request access to iCloud data. Use these — they cost nothing and carry significant legal weight under RUFADAA's priority hierarchy.</p>
+
+<h2>The Lesson Matthew Mellon Did Not Learn in Time</h2>
+
+<p>There is a moment in almost every estate planning conversation where a client waves a hand and says something like, "I know what I have — I'll get to organizing that later." For tangible property, this is usually survivable. A deed can be found. A bank account tracked down. A financial advisor contacted.</p>
+
+<p>For self-custody digital assets, "later" is a gamble with everything. The mathematics of cryptography are indifferent to grief, to court orders, to family need. A blockchain does not negotiate.</p>
+
+<p>Matthew Mellon's family had every legal right to inherit what was his. What they did not have was a single sheet of paper — or a secured envelope, or a hardware device with clear instructions — that would have made the difference between inheriting a fortune and standing at the edge of a vault they could see but never open.</p>
+
+<p>Texas families who hold cryptocurrency, run online businesses, or maintain significant digital accounts face this same gap every day. It is not a technical problem. It is a planning problem — and it is entirely solvable with the right legal framework in place before it is too late.</p>
+
+<h2>Talk to WG Law About Your Digital Assets</h2>
+
+<p>If you own cryptocurrency, run an online business, or have digital accounts you have never thought about in the context of your estate plan, our team works with clients throughout the Dallas-Fort Worth area — Frisco, Plano, McKinney, Allen, and surrounding communities. We help Texans build <a href="/practice-areas/estate-planning">comprehensive estate plans</a> that account for the full range of their assets, including the digital ones most attorneys overlook.</p>
+
+<p>Understanding what you own — and making sure your family can access it when they need it — is not complicated. It just requires actually doing it.</p>
+
+<p><em>This article provides general legal information about Texas estate planning and digital asset law and is not legal advice. Laws and platform policies change frequently. For guidance specific to your situation, consult a licensed Texas estate planning attorney.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
