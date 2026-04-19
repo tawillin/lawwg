@@ -1,3 +1,4 @@
+import { siteConfig } from "@/data/siteConfig";
 import JsonLd from "./JsonLd";
 
 type BlogPostSchemaProps = {
@@ -30,7 +31,8 @@ export default function BlogPostSchema({
     publisher: {
       "@type": "LegalService",
       "@id": "https://lawwg.com/#organization",
-      name: "Willingham Law Firm, PC",
+      name: siteConfig.shortName,
+      legalName: siteConfig.name,
       url: "https://lawwg.com",
     },
     mainEntityOfPage: {
