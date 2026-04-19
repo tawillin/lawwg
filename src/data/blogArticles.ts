@@ -2413,6 +2413,95 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p><em>This article provides general legal information about Texas estate planning and digital asset law and is not legal advice. Laws and platform policies change frequently. For guidance specific to your situation, consult a licensed Texas estate planning attorney.</em></p>`,
   },
+  {
+    slug: "texas-community-property-law-what-you-own",
+    title: "What Texans Get Wrong About Community Property (And Why It Could Cost Them Everything)",
+    excerpt:
+      "Most Texans assume they know what they own. A 2025 Texas appeals court ruling — and a new 2026 law — reveal just how wrong that assumption can be. Here's what community property actually means in Texas.",
+    category: "Estate Planning",
+    date: "2026-04-19",
+    author: "WG Law",
+    readTime: "9 min read",
+    metaDescription:
+      "Texas community property law explained: what's yours, what's shared, and the 2026 changes that could reshape your divorce or estate plan. Learn the rules now.",
+    content: `<p>When the marriage ended, he was certain about one thing: the stock was his. He had earned it. His name was on the grant agreements. His performance reviews had unlocked each tranche of restricted stock units. His employer had given them to him — not to his wife, not to both of them, to <em>him</em> — in exchange for years of work he had put in at a technology firm in the Beaumont area. He had watched the value climb, reinvested the dividends, planned his financial future around it. As far as he was concerned, it was as much his separate property as the guitar he had owned before they ever met.</p>
+
+<p>The Texas Court of Appeals saw it differently. In <em>S. v. S.</em>, No. 09-23-00379-CV (Tex. App.—Beaumont, Dec. 4, 2025), the Ninth District affirmed the trial court's division of the marital estate — including a ruling that his deferred employer stock grants, compensation tied to work he had performed <em>during the marriage</em>, were community property subject to division. It did not matter that the grants paid out after the divorce was filed. It did not matter that they were awarded in his name alone. What mattered, under Texas law, was when the work was performed. The labor that earned those grants occurred inside the marriage. The property followed the labor.</p>
+
+<p>He walked away from what he thought was his separate nest egg having divided a substantial portion of it with a spouse he was no longer married to. The court also awarded her approximately 70% of the marital estate overall — a result the appellate court upheld as a "just and right" division under the circumstances. The lesson was not that the system was unfair. The lesson was that he had never understood the system to begin with.</p>
+
+<p>This is, in miniature, the story of Texas community property law: a legal framework that most Texans live inside their entire married lives without ever reading the rules. And in 2026, those rules just got more complicated.</p>
+
+<h2>The Nine-State Club Nobody Applied to Join</h2>
+
+<p>Texas is one of only nine states in the country that operates under a community property system. The others — California, Arizona, Nevada, New Mexico, Washington, Idaho, Wisconsin, and Louisiana — share the same fundamental premise: property acquired during a marriage belongs equally to both spouses, regardless of whose name is on the title, whose paycheck it came from, or who negotiated the deal.</p>
+
+<p>The legal foundation is simple. Under the Texas Family Code, there is a presumption that all property a married person possesses is community property. If you want to classify something as your separate property, <em>you</em> bear the burden of proving it — by clear and convincing evidence, one of the highest standards in civil law. The presumption runs against you. The default is shared.</p>
+
+<p>For most Texans, this presumption has the texture of background noise. It is technically true but practically invisible until the day it suddenly matters — at divorce, at death, or increasingly, in the context of a dispute over a business, a debt, or an inheritance that got quietly mixed into the wrong account.</p>
+
+<h2>What Separate Property Actually Means — and How You Can Lose It</h2>
+
+<p>Separate property in Texas falls into three categories. The first is property you owned before the marriage. The second is anything you receive during the marriage as a gift or inheritance — even if you are still married when the check arrives. The third is personal injury damages recovered during the marriage, <em>except</em> for compensation that replaces lost earning capacity (which is community property, because it substitutes for wages both spouses would have shared).</p>
+
+<p>The categories sound clean. In practice, they are permeable.</p>
+
+<p>The threat is called commingling. When separate property gets mixed with community funds — deposited into a joint account, used to pay the mortgage on a marital home, combined with community money to purchase an investment — it can lose its separate character entirely. Texas courts apply a "tracing" doctrine that requires you to follow the money with meticulous documentation. If you inherit $80,000 from a parent and deposit it into the checking account you share with your spouse, and over the next three years you both make deposits and withdrawals for groceries and utilities and vacations, good luck tracing that inheritance back out. Courts have held that when separate funds become so intermingled with community funds that they cannot be identified, the entire pool may be treated as community property.</p>
+
+<p>There is a second trap that surprises even financially sophisticated Texans: <strong>income generated by separate property is community property.</strong> If you own a rental house that you purchased before your marriage, the house itself may remain your separate property. But the rent checks it generates during your marriage? Community property. The dividends from the stock portfolio you inherited from your grandmother? Community property. The law treats the productive labor of the marriage — including the labor of managing assets — as jointly owned. The asset is separate. The fruit of the asset belongs to both.</p>
+
+<h2>The 2026 Change That Rewrites the Calculus for Business Owners</h2>
+
+<p>In 2025, the Texas Legislature passed House Bill 1547, which took effect in 2026 and significantly updated how courts handle reimbursement claims between the community estate and a spouse's separate estate. The new law formalized and expanded the so-called <strong>"Time, Toil, and Talent" rule</strong> — and its implications for business owners and entrepreneurs are profound.</p>
+
+<p>Here is the problem the law is solving. Imagine a husband who, before marriage, owns a small HVAC business worth $200,000. During the marriage, he spends twelve years growing that business into a regional operation worth $4 million. He does not pay himself a market-rate salary — he reinvests the profits, building equity in what he considers his separate property asset. His wife raises their children, manages the household, and supports the family on a modest income.</p>
+
+<p>Under the old law, the community estate had a relatively narrow path to reimbursement for the husband's time and effort spent building a separate asset. Under HB 1547, the community estate can now seek reimbursement when one or both spouses used their "time, toil, talent, or effort" to enhance the value of a spouse's separate property beyond what was reasonably necessary to manage and preserve it — and the community did not receive adequate compensation. The business owner who grew his separate property into a multi-million-dollar enterprise without paying the community a market wage may now find that a substantial portion of that growth is subject to reimbursement claims.</p>
+
+<p>For Texans who own businesses, investment properties, or professional practices that predate their marriages, this change is not theoretical. It is a reason to revisit your estate plan and marital property strategy now, not after a dispute arises.</p>
+
+<h2>The Deferred Compensation Problem: When Your Paycheck Belongs to Both of You</h2>
+
+<p>The <em>S. v. S.</em> ruling sits at the intersection of two trends — the rise of equity-based compensation and the complexity of Texas marital property law — and the combination creates landmines for anyone working in technology, finance, or any sector where restricted stock units, performance bonuses, profit-sharing agreements, or deferred compensation plans are common.</p>
+
+<p>Texas courts have applied the <strong>"time rule"</strong> for decades to apportion deferred compensation between community and separate property. The rule is conceptually straightforward: if compensation was earned during the marriage, it is community property. If it was earned before the marriage or after permanent separation, it is separate. The complication arises when a grant spans both periods — when RSUs vest over four years but the marriage ends in year two, for instance.</p>
+
+<p>What <em>S. v. S.</em> reinforced is that Texas courts will not allow strategic timing to manipulate this rule. If a spouse defers bonuses, accelerates vesting schedules, or structures compensation in ways that artificially shift earning from inside the marriage to outside it, courts have the tools — and the inclination — to look through the structure to the underlying economic reality. The marital estate is entitled to what was earned during the marriage. Full stop.</p>
+
+<p>If your compensation package includes any form of deferred payment tied to service during your marriage, that compensation belongs, at least in part, to both of you. Planning for this reality — through a prenuptial or postnuptial agreement, or through careful structuring of compensation in a business you own — is far easier than litigating it after the fact.</p>
+
+<h2>What Community Property Means When You Die (Not Just When You Divorce)</h2>
+
+<p>Community property law is usually discussed in the context of divorce. But it shapes estate planning just as powerfully — and in some ways, more favorably.</p>
+
+<p>Each spouse owns an undivided one-half interest in all community property. When you die, you control only your half. You can leave your half to whoever you choose — your children, a trust, a charity. Your spouse's half was never yours to give away. A will that purports to dispose of the entire community estate, rather than just the decedent's half, creates a legal mess that can end up in <a href="/practice-areas/probate">Texas probate court</a>.</p>
+
+<p>But there is a significant tax advantage built into community property that residents of common-law states do not enjoy. When either spouse dies, <em>both halves</em> of the community property receive a stepped-up income tax basis to the fair market value at death. In a common-law state, only the decedent's share gets the step-up. For a couple sitting on a highly appreciated asset — a business, a stock portfolio, real estate purchased decades ago — this double step-up can represent a tax savings of hundreds of thousands of dollars.</p>
+
+<p>Texas attorneys sometimes advise married clients who have moved from common-law states to consider converting their separate property to community property through a <strong>community property agreement</strong> under Texas Family Code Sections 4.102–4.106. The goal is not to share control during life — it is to capture the double step-up at death. Done correctly, this is a legitimate and powerful estate planning tool. Done carelessly, it can create unintended complications at divorce. It requires experienced legal drafting.</p>
+
+<h2>How to Actually Protect Your Separate Property</h2>
+
+<p>The rules of Texas community property law are not designed to trap people. They are designed to reflect the economic reality of a shared life. But they do require intentionality from anyone who has significant separate property, owns a business, or receives equity-based compensation.</p>
+
+<p>Protecting separate property in a Texas marriage means, at minimum, three things. First, <strong>keep it separate.</strong> Inherited funds, pre-marital assets, and gifts should be maintained in dedicated accounts that do not receive community deposits and do not fund community expenses. The cleaner the paper trail, the stronger the tracing argument if the property character is ever contested.</p>
+
+<p>Second, <strong>document everything.</strong> The deed you received before the wedding. The inheritance check and the bank statement showing it was deposited into a separate account. The gift letter from a parent. Texas courts will not take your word for the separate character of an asset — they require evidence, and evidence that was not preserved at the time of acquisition is often impossible to reconstruct years later.</p>
+
+<p>Third, <strong>consider a marital property agreement.</strong> Texas allows spouses to execute prenuptial agreements before marriage and partition or exchange agreements during marriage. These agreements can convert community property to separate property, partition specific community assets, or establish rules for how future income and acquisitions will be characterized. For business owners, couples with significant pre-marital assets, or anyone with equity compensation that spans their marriage, a well-drafted marital property agreement is among the most powerful tools available.</p>
+
+<h2>Back to the Man Who Lost His Stock</h2>
+
+<p>He was not dishonest. He was not trying to hide assets. He simply operated for years under an assumption — a reasonable-seeming, intuitively appealing assumption — that the compensation he earned at work was his. He had never read Texas Family Code Section 3.002. He had never had the conversation with an attorney about how RSUs earned during a marriage are characterized under Texas law. By the time the question came before a judge, the answer was no longer his to give.</p>
+
+<p>Texas community property law is not punitive. It reflects a legal philosophy — embedded in the state's Spanish colonial legal heritage — that a marriage is an economic partnership, and the fruits of that partnership belong to the partnership. Understanding that philosophy, and planning within it, is not complicated. It just requires actually knowing the rules before the rules apply to you.</p>
+
+<p>If you are married in Texas and own a business, receive equity compensation, have significant inherited assets, or are thinking about how your estate will be divided at death, the conversation about community property is one worth having now — with an attorney who handles <a href="/practice-areas/estate-planning">Texas estate planning</a> and understands how marital property law intersects with wills, trusts, and long-term wealth strategy. The team at WG Law works with families throughout the Dallas-Fort Worth area — McKinney, Frisco, Plano, Allen, and the surrounding communities — to build plans that account for what you actually own and what you actually want.</p>
+
+<p>The rules are knowable. The surprises are avoidable. The time to learn them is before you are sitting across a courtroom from someone who learned them first.</p>
+
+<p><em>This article provides general legal information about Texas marital property and estate planning law and is not legal advice. Laws change, and individual circumstances vary. For guidance specific to your situation, consult a licensed Texas attorney.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
