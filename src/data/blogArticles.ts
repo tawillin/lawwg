@@ -2502,6 +2502,109 @@ If you've been served with a lawsuit in Texas, contact WG Law. We'll review your
 
 <p><em>This article provides general legal information about Texas marital property and estate planning law and is not legal advice. Laws change, and individual circumstances vary. For guidance specific to your situation, consult a licensed Texas attorney.</em></p>`,
   },
+  {
+    slug: "beneficiary-designations-texas-estate-plan",
+    title: "The Document Your Will Can't Beat: Why Beneficiary Designations Control Half Your Texas Estate",
+    excerpt: "Your will doesn't control your IRAs, 401(k)s, or life insurance — beneficiary designations do. Here's why updating them is the most overlooked — and most consequential — step in your Texas estate plan.",
+    category: "Estate Planning",
+    date: "2026-04-20",
+    author: "WG Law",
+    readTime: "8 min read",
+    metaDescription: "In Texas, beneficiary designations on IRAs, 401(k)s, and life insurance override your will entirely. Learn why auditing them is critical for your estate plan.",
+    content: `<p>In the final years of his life, a man in East Texas drove to his bank and changed the payable-on-death designations on several accounts — a checking account and a handful of certificates of deposit worth more than $400,000 combined. He made deliberate choices about who would receive that money when he died. Then he died.</p>
+
+<p>What followed was not a quiet transfer of wealth. It was a lawsuit. His family went to court — not to contest his will, but to contest those bank forms. A jury in Texarkana heard evidence that the man had lacked the mental capacity to sign the POD designations. He didn't have the cognitive clarity, the evidence suggested, to understand what he was signing or the legal consequences. The jury found in his family's favor. The Texarkana Court of Appeals upheld the verdict. In <em>Estate of Minton</em>, more than $400,000 hung in the balance — not because of a disputed will, but because of a few lines on a bank form.</p>
+
+<p>The case is remarkable for what it reveals about the architecture of Texas estate planning. Most Texans believe their will is the captain of their estate. They spend time, money, and considerable emotional energy crafting a document that says, in precise legal language, exactly who gets what. They sign it, put it in a drawer, and feel finished.</p>
+
+<p>They are not finished. Because for millions of Texans, the will doesn't control a single dollar of the assets that matter most.</p>
+
+<h2>Two Tracks to Inheritance: How Texas Actually Moves Wealth</h2>
+
+<p>Texas estate law runs on two parallel tracks, and most people only know about one of them.</p>
+
+<p>The first track is <strong>probate</strong>. This is where your will lives. Probate is the court-supervised process of proving your will is valid, paying your debts, and distributing what's left to your heirs. It takes months, sometimes longer, and everything that flows through it becomes a public record.</p>
+
+<p>The second track is <strong>nonprobate transfer</strong>. This is where beneficiary designations live — and it is far larger than most people realize. Under the Texas Estates Code, a wide range of assets transfer at death through contract, without ever touching a probate court. These include:</p>
+
+<ul>
+  <li><strong>Life insurance proceeds</strong> — paid directly to the named beneficiary</li>
+  <li><strong>IRAs and Roth IRAs</strong> — transferred to whoever is named on the account form</li>
+  <li><strong>401(k), 403(b), and other workplace retirement plans</strong> — governed by the plan documents and your beneficiary designation</li>
+  <li><strong>Bank accounts with POD (payable-on-death) designations</strong></li>
+  <li><strong>Investment accounts with TOD (transfer-on-death) designations</strong></li>
+  <li><strong>Annuities with named beneficiaries</strong></li>
+</ul>
+
+<p>For the average Texas family, these assets — the retirement savings, the life insurance policy, the bank accounts — represent the bulk of their wealth. And none of it cares what your will says. A beneficiary designation is a contract between you and the financial institution, and Texas courts will enforce that contract. The will is simply irrelevant to assets that travel on the nonprobate track.</p>
+
+<h2>The Collision Course Nobody Sees Coming</h2>
+
+<p>Here is how the disaster typically unfolds. A man in Plano gets married in his thirties. He has a 401(k) from his employer and a term life insurance policy. He lists his wife as the beneficiary on both — sensible, thoughtful, exactly right. Decades pass. His wife dies. He remarries. He updates his will meticulously to reflect his new family: second wife, stepchildren, every contingency covered. He feels, reasonably, that his affairs are in order.</p>
+
+<p>He does not update his 401(k) beneficiary designation. He doesn't touch the life insurance form. His first wife is gone, so he assumes there's no harm.</p>
+
+<p>When he dies, his retirement account — now worth $380,000 — has no living primary beneficiary. If he named no contingent, the account goes to his probate estate, where it loses the tax-deferred nonprobate advantage and gets tangled in the process he was trying to avoid. If he did name a contingent from decades ago — a sibling, a parent — that person may inherit, regardless of what his new will says. His second wife, named throughout his will, may receive nothing from the account.</p>
+
+<p>This is not a rare edge case. Texas estate planning attorneys encounter variations of this story constantly. It is, in fact, one of the most predictable ways a carefully constructed estate plan falls apart.</p>
+
+<h2>The Ex-Spouse Problem Texas Cannot Fully Solve</h2>
+
+<p>Texas law offers some protection against the most obvious version of this problem: the forgotten ex-spouse. Under the Texas Estates Code, a divorce automatically revokes beneficiary designations in favor of a former spouse for certain instruments governed by Texas law. If you forget to update your will after a divorce, your ex is out.</p>
+
+<p>But here is the critical gap: that automatic revocation does not apply to federal retirement accounts like 401(k) plans, which are governed by ERISA — a federal statute that preempts state law. The U.S. Supreme Court addressed this directly in <em>Egelhoff v. Egelhoff</em>, holding that ERISA plans must pay whoever is named on the form, regardless of a subsequent divorce. A Washington state law tried to revoke beneficiary designations upon divorce. The Supreme Court struck it down. Federal law controls. If you don't update your 401(k) after your divorce is final, your ex-spouse may be legally entitled to every dollar in it — and there is very little a Texas court can do.</p>
+
+<p>This is why estate planning attorneys across McKinney, Frisco, and the DFW area treat beneficiary designation updates as one of the first tasks after a divorce is finalized — not a footnote, not an afterthought, but a first step.</p>
+
+<h2>The Community Property Twist That Changes Everything</h2>
+
+<p>Texas is a community property state, which adds another layer of complexity that most people never consider when filling out a beneficiary form. Assets earned during a marriage — including contributions to a 401(k) — are generally community property, meaning your spouse legally owns half of them regardless of whose name is on the account.</p>
+
+<p>For workplace retirement plans covered by ERISA, federal law requires that your spouse must consent in writing before you can name anyone other than your spouse as the primary beneficiary on the plan. This is called a <strong>qualified spousal consent</strong>, and it must be signed before a notary or an authorized plan representative. Skip this step, and your beneficiary designation may be legally unenforceable — the plan pays your spouse anyway, regardless of what the form says.</p>
+
+<p>IRAs are not subject to ERISA's spousal consent requirement, so you can name anyone as your IRA beneficiary without your spouse's signature. But your spouse may still have a community property claim to half the account's value if contributions were made during the marriage. Naming your adult child as the sole beneficiary of a community property IRA doesn't extinguish your spouse's interest. It creates a dispute your family will have to resolve after you're gone.</p>
+
+<h2>The SECURE Act Landmine: What Inherited IRAs Cost Your Children</h2>
+
+<p>If you are planning to leave an IRA to your children, there is a federal rule that has reshaped the math of that decision. Under the SECURE 2.0 Act, most non-spouse beneficiaries who inherit an IRA after 2020 must withdraw all funds within ten years of the owner's death. The IRS began enforcing required minimum distributions under this rule in 2025.</p>
+
+<p>The tax consequences can be significant. Imagine leaving a $600,000 traditional IRA to your adult son, who is in his peak earning years. He must withdraw roughly $60,000 per year for a decade — all taxable income — stacked on top of his existing salary. In a 32 percent federal bracket, the tax bill alone could consume nearly $200,000 of the inheritance you built over a lifetime.</p>
+
+<p>The answer is not to avoid leaving IRAs to children. It is to coordinate those beneficiary designations with a broader <a href="/practice-areas/estate-planning">estate plan</a> that accounts for the timing and tax treatment of distributions. In some situations, a properly drafted conduit trust named as IRA beneficiary can provide control and protection. In others, a Roth conversion during your lifetime changes the tax equation entirely. But none of those strategies work if your beneficiary form is an afterthought on a financial institution's website.</p>
+
+<h2>The Beneficiary Audit: What to Do Right Now</h2>
+
+<p>Every two to three years — and after every major life event including marriage, divorce, the death of a beneficiary, the birth of a child, or a significant change in assets — every Texan should conduct what estate planners call a beneficiary audit. Here is what that looks like:</p>
+
+<ul>
+  <li><strong>Make a complete inventory</strong> of every account that carries a beneficiary designation: life insurance policies, IRAs, 401(k)s, 403(b)s, annuities, bank accounts with POD designations, and investment accounts with TOD designations.</li>
+  <li><strong>Request the actual form on file</strong> from each institution. Don't rely on memory or old paperwork — get the document the institution will actually honor.</li>
+  <li><strong>Verify that both primary and contingent beneficiaries are named.</strong> A primary beneficiary who predeceases you with no contingent on file can send assets into probate — exactly what the nonprobate designation was designed to prevent.</li>
+  <li><strong>Check for former spouses and deceased individuals</strong> named on any form.</li>
+  <li><strong>Confirm that designations align with your will and any trust structures.</strong> If your will creates a trust for minor children, does your life insurance pay into that trust or directly to children who are legally too young to manage it?</li>
+  <li><strong>Consult an estate planning attorney before naming a trust as IRA beneficiary.</strong> The tax rules for trust-as-beneficiary are complex and depend heavily on the trust's language.</li>
+</ul>
+
+<p>For families with blended households, significant retirement assets, business interests, or estate plans that include trusts, this audit is not optional. It is the foundation on which every other planning decision rests.</p>
+
+<h2>A Window That Won't Stay Open</h2>
+
+<p>One additional reason to act now: the federal estate tax landscape has changed. The One Big Beautiful Bill, signed into law on July 4, 2025, raised the federal estate tax exemption to $15 million per individual and $30 million for married couples beginning January 1, 2026 — with no sunset provision. For most Texas families, federal estate tax is no longer the central planning concern it once was.</p>
+
+<p>That does not mean planning matters less. It means the focus shifts from tax minimization to <strong>distribution strategy</strong> — ensuring the right assets reach the right people in the right way and at the right time. Beneficiary designations are the most powerful instrument in that strategy. They are also the most neglected.</p>
+
+<h2>Back to East Texas</h2>
+
+<p>The family that fought over those $400,000 accounts did not end up in court because the man had a bad will or no estate plan. They ended up in court because the law treats beneficiary designations as binding contracts — and when the validity of those contracts is disputed, the fight is expensive, public, and prolonged.</p>
+
+<p>The lesson is not that beneficiary designations are dangerous. It is that they are powerful. They move enormous sums of money outside probate, outside public record, and directly into the hands of whoever is named. When those names are current, coordinated, and intentional, the result is everything estate planning promises: a swift, private, efficient transfer of wealth to the people you have chosen.</p>
+
+<p>When those names are stale, forgotten, or wrong, the result is a courtroom in Texarkana.</p>
+
+<p>If you have not reviewed your beneficiary designations recently, that is where your <a href="/practice-areas/estate-planning">estate plan</a> needs to start — not end. The attorneys at WG Law work with families across McKinney, Frisco, Plano, and the greater DFW area to build estate plans that coordinate every asset, not just those that pass through probate. <a href="/contact">Contact us</a> to schedule a consultation.</p>
+
+<p><em>This article is for general informational purposes only and does not constitute legal advice. Laws change and individual circumstances vary. Please consult a licensed Texas estate planning attorney for guidance specific to your situation.</em></p>`,
+  },
 ];
 
 /** Helper: find an article by slug */
