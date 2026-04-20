@@ -11,9 +11,9 @@ import { practiceAreas } from "@/data/practiceAreas";
 import { siteConfig } from "@/data/siteConfig";
 
 export const metadata: Metadata = {
-  title: "Texas Probate Attorneys | 2,000+ Estates Administered | McKinney & Southlake",
+  title: "North Texas Probate Lawyers | McKinney, Frisco & DFW",
   description:
-    "Experienced Texas probate lawyers serving McKinney, Southlake, and DFW. Independent administration, muniment of title, small estate affidavits, heirship determinations, and contested probate. 2,000+ probates handled. Call 214-250-4407.",
+    "Probate attorneys in McKinney, Frisco & DFW. Independent administration, muniment of title, small estate affidavits & heirship cases. Call 214-250-4407.",
 };
 
 const sections = [
